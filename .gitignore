@@ -1,0 +1,7 @@
+# Compiled binaries
+*.out
+*.exe
+a.out
+
+# VS Code
+.vscode/
