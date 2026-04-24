@@ -1,7 +1,7 @@
 # Codeforces Solutions (C++) + Leetcode Solutions (Python)
 
 Competitive programming solutions written in C++17 with `g++`.
-Python solutions written with Python3
+Python solutions written with `python3`
 
 ## Compile & Run
 

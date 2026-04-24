@@ -1,0 +1,844 @@
+# 📈 The Tracker
+
+
+## 📅 Phase 1: CF Sprint
+- [x] **Wed, 2026-04-01:** CF 71A Way Too Long Words [800] | CF 4A Watermelon [800] | CF 158A Next Round [800] | CF 50A Domino Piling [800] | CF 112A Petya and Strings [900] | CF 236A Boy or Girl [900] | Write Python I/O cheat sheet
+- [x] **Thu, 2026-04-02:** CF 282A Bit++ [800] | CF 131A cAPS lOCK [900] | CF 479A Expression [900] | CF 1A Theatre Square [1000] | CF 69A Young Physicist [1000] | Upsolve: editorial for 1A Theatre Square
+- [x] **Fri, 2026-04-03:** CF 344A Magnets [900] | CF 141A Amusing Joke [1000] | CF 996A Hit the Lottery [1000] | CF 337A Puzzles [1000] | Virtual: Div 2 A+B (1h timer)
+- [x] **Sat, 2026-04-04:** CF 230A Dragons [1000] | CF 110A Nearly Lucky Number [1000] | CF 455A Boredom (dp) [1100] | CF 189A Cut Ribbon (dp) [1100] | CF 580C Kefa and Park (dfs) [1100] | Journal: greedy strategies
+- [x] **Sun, 2026-04-05:** CF 977E Cyclic Components [1100] | CF 115A Party (dfs) [1100] | CF 519B Compilation Errors [1100] | CF 1201C Maximum Median [1200] | Templates → library
+- [x] **Mon, 2026-04-06:** CF 1201A Important Exam [1100] | CF 1294C Product of Three Numbers [1200] | CF 1294D MEX maximizing [1200] | CF 1462D Add to Neighbour [1200] | Binary search template → library
+- [ ] **Tue, 2026-04-07:** CF 1324A Yet Another Tetris [1100] | CF 977F Consecutive Subsequence [1200] | CF 467C George and Job (dp) [1200] | CF 1037D Valid BFS? [1300] | BFS + DFS templates → library
+- [ ] **Wed, 2026-04-08:** CF 1093B Letters (binsearch) [1100] | CF 545D Queue [1200] | CF 1272D Remove One Element [1200] | CF 1176E Cover it! [1300] | Journal: recurrences for each
+- [ ] **Thu, 2026-04-09:** CF 432A Choosing Teams [1000] | CF 1006C Three Parts of Array [1100] | CF 1324D Pair of Topics [1200] | CF 1076D Edge Deletion [1300] | Templates: sieve, GCD, modexp
+- [ ] **Fri, 2026-04-10:** VIRTUAL CONTEST: Div 2 A-D (2h strict) | Upsolve ALL | Read every editorial
+- [ ] **Sat, 2026-04-11:** Review template library | 3 warmup problems (1000-1100) | Plan contest strategy | Mental prep + early sleep
+
+## 📅 Phase 2: Competition
+- [ ] **Sun, 2026-04-12:** 🏆 COMPETE — Preliminary Round | Upsolve every problem | Read all editorials | Analyze weaknesses
+- [ ] **Mon, 2026-04-13:** Write weakness analysis | CF 1352C K-th Not Divisible [1100] | CF 1195C Basketball Exercise [1200] | CF 1353E K-periodic Garland [1200] | Fix templates
+- [ ] **Tue, 2026-04-14:** CF 1373D Max Sum Even Pos [1200] | CF 1359C Mixing Water [1200] | CF 602B Approx Constant Range [1300] | CF 1472F New Year Puzzle [1300]
+- [ ] **Wed, 2026-04-15:** CF 1352D Alice Bob Candies [1200] | CF 1623B Game on Ranges [1300] | CF 1178B WOW Factor [1300] | Journal: state definitions
+- [ ] **Thu, 2026-04-16:** CF 893C Rumor (graphs) [1200] | CF 1294B Collecting Packages [1300] | CF 1385C Make It Good [1300]
+- [ ] **Fri, 2026-04-17:** CF 1201C Maximum Median [1200] | CF 1433E Two Round Dances [1300] | CF 1475D Cleaning the Phone [1300]
+- [ ] **Sat, 2026-04-18:** Virtual: Div 2 A-C speed (1.5h) | Upsolve | Templates final check | Mental prep + rest
+- [ ] **Sun, 2026-04-19:** 🏆 COMPETE — Main Round | Full upsolve | Read every editorial | Celebrate!
+
+## 📅 Phase 3: Transition
+- [X] **Mon, 2026-04-20:** LC: 1. Two Sum | LC: 217. Contains Duplicate | C++: C++ setup, Hello World, cin/cout
+- [ ] **Tue, 2026-04-21:** LC: 242. Valid Anagram | LC: 49. Group Anagrams | C++: Vectors, strings, sorting, bits/stdc++.h
+- [ ] **Wed, 2026-04-22:** LC: 347. Top K Frequent Elements | LC: 238. Product of Array Except Self | C++: Maps, sets, pairs, range-for
+- [ ] **Thu, 2026-04-23:** LC: 36. Valid Sudoku | LC: 128. Longest Consecutive Sequence | C++: BFS/DFS templates in C++
+- [ ] **Fri, 2026-04-24:** LC: 125. Valid Palindrome | LC: 15. 3Sum | C++: Binary search: lower_bound, upper_bound
+- [ ] **Sat, 2026-04-25:** LC: 11. Container With Most Water | LC: 167. Two Sum II | LC: 42. Trapping Rain Water | LC: 121. Best Time to Buy and Sell Stock | C++: Prefix sum + sieve in C++ | CF 1294C Product of Three Numbers [1200] | ↺ Redo LC 76 Min Window Substring (under 10 min) | Full-stack: core feature #1
+- [ ] **Sun, 2026-04-26:** LC: 3. Longest Substring Without Repeating | Full-stack: core feature #2 | Full-stack: bug fixes + testing | C++: STL: stack, queue, priority_queue
+- [ ] **Mon, 2026-04-27:** LC: 424. Longest Repeating Character Replacement | LC: 567. Permutation in String | C++: Re-solve 5 CF 800-1000 in C++
+- [ ] **Tue, 2026-04-28:** LC: 76. Minimum Window Substring | LC: 20. Valid Parentheses | C++: Recursion + DP in C++
+- [ ] **Wed, 2026-04-29:** LC: 155. Min Stack | LC: 150. Evaluate Reverse Polish Notation | C++: Graphs: adj list, BFS/DFS C++
+- [ ] **Thu, 2026-04-30:** LC: 22. Generate Parentheses | LC: 739. Daily Temperatures | C++: Dijkstra in C++
+- [ ] **Fri, 2026-05-01:** LC: 853. Car Fleet | LC: 84. Largest Rectangle in Histogram | C++: Knapsack + LIS in C++
+- [ ] **Sat, 2026-05-02:** LC: 704. Binary Search | LC: 33. Search in Rotated Sorted Array | LC: 153. Find Min Rotated Sorted | LC: 875. Koko Eating Bananas | C++: CF 1000 comfortably in C++ | CF 1294D MEX maximizing [1200] | ↺ Redo LC 42 Trapping Rain Water (under 8 min) | Full-stack: deploy + CI/CD
+- [ ] **Sun, 2026-05-03:** LC: 74. Search 2D Matrix | Full-stack: docs + README | Full-stack: polish UI | C++: CF 1100 in C++
+- [ ] **Mon, 2026-05-04:** LC: 981. Time Based Key-Value Store | LC: 4. Median of Two Sorted Arrays | C++: All templates ported to C++
+- [ ] **Tue, 2026-05-05:** LC: 206. Reverse Linked List | LC: 21. Merge Two Sorted Lists | C++: Virtual A+B in C++
+- [ ] **Wed, 2026-05-06:** LC: 141. Linked List Cycle | LC: 143. Reorder List | C++: 1100 in <15min C++
+- [ ] **Thu, 2026-05-07:** LC: 19. Remove Nth From End | LC: 2. Add Two Numbers | C++: multiset, unordered_map, bitset
+- [ ] **Fri, 2026-05-08:** LC: 138. Copy List Random Pointer | LC: 146. LRU Cache | C++: String manipulation, stringstream
+- [ ] **Sat, 2026-05-09:** LC: 23. Merge K Sorted Lists | LC: 25. Reverse Nodes K-Group | LC: 226. Invert Binary Tree | LC: 104. Maximum Depth | C++: Mixed 1000-1200 C++ | CF 1462D Add to Neighbour [1200] | ↺ Redo LC 23 Merge K Sorted Lists (under 12 min) | Full-stack: final testing
+- [ ] **Sun, 2026-05-10:** LC: 100. Same Tree | Full-stack: blog post | Full-stack: update resume | C++: Template polish
+- [ ] **Mon, 2026-05-11:** LC: 572. Subtree of Another | LC: 110. Balanced Binary Tree | C++: CF 1300 in C++
+- [ ] **Tue, 2026-05-12:** LC: 102. Level Order Traversal | LC: 98. Validate BST | C++: Speed drills 900-1000 C++
+- [ ] **Wed, 2026-05-13:** LC: 230. Kth Smallest BST | LC: 105. Build Tree Preorder/Inorder | C++: Lambda, custom comparators
+- [ ] **Thu, 2026-05-14:** LC: 199. Right Side View | LC: 1448. Count Good Nodes | C++: Virtual A-C in C++
+- [ ] **Fri, 2026-05-15:** LC: 235. LCA of BST | LC: 208. Implement Trie | C++: Segment tree basics C++
+- [ ] **Sat, 2026-05-16:** LC: 211. Design Add Search Words | LC: 124. Binary Tree Max Path Sum | LC: 297. Serialize/Deserialize BT | LC: 212. Word Search II | C++: BIT (Fenwick tree) C++ | CF 977F Consecutive Subsequence [1200] | ↺ Redo LC 124 BT Max Path Sum (under 10 min) | Full-stack: PROJECT DONE ✅
+- [ ] **Sun, 2026-05-17:** LC: 200. Number of Islands | Full-stack: core feature #1 | Full-stack: core feature #2 | C++: DSU (Union-Find) C++
+
+## 📅 Phase 4: LC Core + Projects
+- [ ] **Mon, 2026-05-18:** LC: 133. Clone Graph | ML: read Gatys et al. paper | CF 1490D Perm Transformation [1300]
+- [ ] **Tue, 2026-05-19:** LC: 695. Max Area of Island | ML: repo setup + deps | CF 1512D Corrupted Array [1300]
+- [ ] **Wed, 2026-05-20:** LC: 417. Pacific Atlantic Water Flow | ML: matrix multiply from scratch | CF 1538C Number of Pairs [1300]
+- [ ] **Thu, 2026-05-21:** LC: 207. Course Schedule | ML: conv layer forward pass | CF 1567C Carrying Conundrum [1300]
+- [ ] **Fri, 2026-05-22:** LC: 210. Course Schedule II | ML: pooling layer | CF 1037D Valid BFS? [1300]
+- [ ] **Sat, 2026-05-23:** LC: 994. Rotting Oranges | LC: 130. Surrounded Regions | LC: 684. Redundant Connection | CF 1176E Cover it! [1300] | ↺ Redo LC 297 Serialize/Deserialize BT | ML: ReLU activation
+- [ ] **Sun, 2026-05-24:** LC: 323. Connected Components | ML: mini VGG forward pass | ML: backprop through conv
+- [ ] **Mon, 2026-05-25:** LC: 127. Word Ladder | ML: backprop full network | CF 1076D Edge Deletion [1300]
+- [ ] **Tue, 2026-05-26:** LC: 269. Alien Dictionary | ML: content loss function | CF 602B Approx Constant Range [1300]
+- [ ] **Wed, 2026-05-27:** LC: 778. Swim in Rising Water | ML: style loss (Gram matrices) | CF 1472F New Year Puzzle [1300]
+- [ ] **Thu, 2026-05-28:** LC: 70. Climbing Stairs | ML: combine losses | CF 1623B Game on Ranges [1300]
+- [ ] **Fri, 2026-05-29:** LC: 746. Min Cost Climbing | ML: first style transfer — debug! | CF 1178B WOW Factor [1300]
+- [ ] **Sat, 2026-05-30:** LC: 198. House Robber | LC: 213. House Robber II | LC: 5. Longest Palindromic Substring | CF 1294B Collecting Packages [1300] | ↺ Redo LC 84 Largest Rectangle Histogram | ML: tune hyperparams → first visual!
+- [ ] **Sun, 2026-05-31:** LC: 647. Palindromic Substrings | ML: optimize iterations | ML: multiple style support
+- [ ] **Mon, 2026-06-01:** LC: 91. Decode Ways | ML: save intermediate images | CF 1385C Make It Good [1300]
+- [ ] **Tue, 2026-06-02:** LC: 322. Coin Change | ML: Flask/FastAPI backend | CF 1433E Two Round Dances [1300]
+- [ ] **Wed, 2026-06-03:** LC: 152. Max Product Subarray | ML: upload endpoint | CF 1475D Cleaning the Phone [1300]
+- [ ] **Thu, 2026-06-04:** LC: 139. Word Break | ML: React frontend UI | CF 1490D Perm Transformation [1300]
+- [ ] **Fri, 2026-06-05:** LC: 300. LIS | ML: WebSocket live progress | CF 1512D Corrupted Array [1300]
+- [ ] **Sat, 2026-06-06:** LC: 416. Partition Equal Subset Sum | LC: 62. Unique Paths | LC: 1143. Longest Common Subsequence | CF 1538C Number of Pairs [1300] | ↺ Redo LC 72 Edit Distance (write recurrence from memory) | ML: connect frontend↔backend
+- [ ] **Sun, 2026-06-07:** LC: 309. Best Time Cooldown | ML: end-to-end test | ML: fix bugs + UX
+- [ ] **Mon, 2026-06-08:** LC: 494. Target Sum | ML: style gallery (5+ paintings) | CF 1567C Carrying Conundrum [1300]
+- [ ] **Tue, 2026-06-09:** LC: 97. Interleaving String | ML: resolution slider | CF 1037D Valid BFS? [1300]
+- [ ] **Wed, 2026-06-10:** LC: 518. Coin Change II | ML: GPU optimization | CF 1176E Cover it! [1300]
+- [ ] **Thu, 2026-06-11:** LC: 72. Edit Distance | ML: before/after view | CF 1076D Edge Deletion [1300]
+- [ ] **Fri, 2026-06-12:** LC: 312. Burst Balloons | ML: optimization animation | CF 602B Approx Constant Range [1300]
+
+## 📅 Phase 5: Summer Grind #1
+- [ ] **Sat, 2026-06-13:** Virtual Contest: Div 2 A-D in C++ | Upsolve all | LC: 10. Regular Expression Matching | LC: 329. Longest Increasing Path | ↺ Redo LC 4 Median of Two Sorted Arrays | ↺ Redo LC 146 LRU Cache (under 8 min) | ML: polish + loading states
+- [ ] **Sun, 2026-06-14:** Review: redo 2 hardest LC | LC: 115. Distinct Subsequences | ML: README with demo GIFs | ML: technical blog post | Weekly reflection
+- [ ] **Mon, 2026-06-15:** LC: 78. Subsets | LC: 39. Combination Sum | LC: 46. Permutations | LC: 79. Word Search | CF 1398C Good Subarrays [1400] | Probability: Bayes' theorem (3 problems)
+- [ ] **Tue, 2026-06-16:** LC: 51. N-Queens | ML: deploy to cloud | ML: unit tests | ML: benchmarks | ML: ML PROJECT DEPLOYED ✅
+- [ ] **Wed, 2026-06-17:** LC: 17. Letter Combinations | LC: 131. Palindrome Partitioning | LC: 40. Combination Sum II | LC: 53. Maximum Subarray | SysDesign: URL Shortener | CF 1426D Non-zero Segments [1400]
+- [ ] **Thu, 2026-06-18:** LC: 55. Jump Game | ML: read Gatys et al. paper | ML: repo setup + deps | ML: matrix multiply from scratch | ML: conv layer forward pass
+- [ ] **Fri, 2026-06-19:** LC: 45. Jump Game II | LC: 134. Gas Station | LC: 846. Hand of Straights | Probability: conditional probability | Probability: expected value calculations | CF 1454D Number into Primes [1400]
+- [ ] **Sat, 2026-06-20:** Virtual Contest: Div 2 A-D in C++ | Upsolve all | LC: 763. Partition Labels | LC: 678. Valid Parenthesis String | ↺ Redo LC 312 Burst Balloons (derive DP state) | ↺ Redo LC 239 Sliding Window Maximum | ML: pooling layer
+- [ ] **Sun, 2026-06-21:** Review: redo 2 hardest LC | LC: 621. Task Scheduler | ML: ReLU activation | ML: mini VGG forward pass | Weekly reflection
+- [ ] **Mon, 2026-06-22:** LC: 56. Merge Intervals | LC: 435. Non-overlapping Intervals | LC: 57. Insert Interval | LC: 253. Meeting Rooms II | CF 1474C Array Destruction [1400] | Probability: geometric & negative binomial
+- [ ] **Tue, 2026-06-23:** LC: 136. Single Number | ML: backprop through conv | ML: backprop full network | ML: content loss function | ML: style loss (Gram matrices)
+- [ ] **Wed, 2026-06-24:** LC: 191. Number of 1 Bits | LC: 338. Counting Bits | LC: 268. Missing Number | LC: 48. Rotate Image | SysDesign: Rate Limiter | CF 1499C Minimum Distance [1400]
+- [ ] **Thu, 2026-06-25:** LC: 54. Spiral Matrix | ML: combine losses | ML: first style transfer — debug! | ML: tune hyperparams → first visual! | ML: optimize iterations
+- [ ] **Fri, 2026-06-26:** LC: 73. Set Matrix Zeroes | LC: 50. Pow(x,n) | LC: 43. Multiply Strings | Brainteaser: 'Heard on the Street' chapter | Brainteaser: classic quant puzzles (5) | CF 1520D Same Differences [1400]
+- [ ] **Sat, 2026-06-27:** Virtual Contest: Div 2 A-D in C++ | Upsolve all | LC: 295. Find Median Data Stream | LC: 355. Design Twitter | ↺ Redo LC 218 Skyline Problem | ↺ Re-derive Bayes' theorem from scratch + 2 problems | ML: multiple style support
+- [ ] **Sun, 2026-06-28:** Review: redo 2 hardest LC | LC: 973. K Closest Points | ML: save intermediate images | ML: Flask/FastAPI backend | Weekly reflection
+- [ ] **Mon, 2026-06-29:** LC: 703. Kth Largest Element | LC: 1046. Last Stone Weight | LC: 380. Insert Delete GetRandom | LC: 460. LFU Cache | CF 1541B Pleasant Pairs [1400] | Brainteaser: Fermi estimation
+- [ ] **Tue, 2026-06-30:** LC: 895. Max Frequency Stack | ML: upload endpoint | ML: React frontend UI | ML: WebSocket live progress | ML: connect frontend↔backend
+- [ ] **Wed, 2026-07-01:** LC: 843. Guess the Word | LC: 1048. Longest String Chain | LC: 1293. Shortest Path Obstacles | LC: 394. Decode String | SysDesign: Consistent Hashing | CF 1560D Make Power of Two [1400]
+- [ ] **Thu, 2026-07-02:** LC: 314. Vertical Order Traversal | ML: end-to-end test | ML: fix bugs + UX | ML: style gallery (5+ paintings) | ML: resolution slider
+- [ ] **Fri, 2026-07-03:** LC: 1249. Min Remove Valid Parens | LC: 680. Valid Palindrome II | LC: 227. Basic Calculator II | Brainteaser: combinatorics puzzles | Mental math: 2-digit × 2-digit speed drills | CF 1569C Jury Meeting [1400]
+- [ ] **Sat, 2026-07-04:** Virtual Contest: Div 2 A-D in C++ | Upsolve all | LC: 937. Reorder Data in Log Files | LC: 1268. Search Suggestions | ↺ Re-derive expected value formulas + 3 problems | ↺ Re-derive Markov chain stationary distribution | ML: GPU optimization
+- [ ] **Sun, 2026-07-05:** Review: redo 2 hardest LC | LC: 472. Concatenated Words | ML: before/after view | ML: optimization animation | Weekly reflection
+- [ ] **Mon, 2026-07-06:** LC: 1192. Critical Connections | LC: 41. First Missing Positive | LC: 218. The Skyline Problem | LC: 315. Count Smaller After Self | CF 1593D1 All are Same [1400] | Mental math: fraction/decimal conversion
+- [ ] **Tue, 2026-07-07:** LC: 887. Super Egg Drop | ML: polish + loading states | ML: README with demo GIFs | ML: technical blog post | ML: deploy to cloud
+- [ ] **Wed, 2026-07-08:** LC: 470. Rand10 Using Rand7 | LC: 239. Sliding Window Maximum | LC: 1235. Max Profit Job Scheduling | LC: 410. Split Array Largest Sum | SysDesign: Key-Value Store | CF 1611D Weights for Tree [1400]
+- [ ] **Thu, 2026-07-09:** LC: 862. Shortest Subarray Sum K | ML: unit tests | ML: benchmarks | ML: ML PROJECT DEPLOYED ✅ | ML: read Gatys et al. paper
+- [ ] **Fri, 2026-07-10:** LC: 1383. Max Performance Team | LC: 403. Frog Jump | LC: 76. Min Window Substring ↺ | Mental math: estimate sqrt, logs | Probability: Markov chains intro | CF 1620C BA-String [1400]
+- [ ] **Sat, 2026-07-11:** Virtual Contest: Div 2 A-D in C++ | Upsolve all | LC: 124. BT Max Path Sum ↺ | LC: 23. Merge K Lists ↺ | ↺ Review C++ memory layout notes + write from memory | ↺ Review segment tree implementation — code from scratch | ML: repo setup + deps
+- [ ] **Sun, 2026-07-12:** Review: redo 2 hardest LC | LC: 42. Trapping Rain Water ↺ | ML: matrix multiply from scratch | ML: conv layer forward pass | Weekly reflection
+- [ ] **Mon, 2026-07-13:** LC: 84. Largest Rectangle ↺ | LC: 72. Edit Distance ↺ | LC: 4. Median Two Arrays ↺ | LC: 1335. Min Difficulty Job Schedule | CF 1632B Roof Construction [1400] | Probability: random walks & gambler's ruin
+- [ ] **Tue, 2026-07-14:** LC: 1547. Min Cost Cut Stick | ML: pooling layer | ML: ReLU activation | ML: mini VGG forward pass | ML: backprop through conv
+- [ ] **Wed, 2026-07-15:** LC: 1696. Jump Game VI | LC: 1937. Max Points with Cost | LC: 1964. Find Longest Valid Obstacle | LC: 1406. Stone Game III | SysDesign: Unique ID Generator | CF 1650C Weight of System [1400]
+- [ ] **Thu, 2026-07-16:** LC: 1140. Stone Game II | ML: backprop full network | ML: content loss function | ML: style loss (Gram matrices) | ML: combine losses
+- [ ] **Fri, 2026-07-17:** LC: 877. Stone Game | LC: 327. Count of Range Sum | LC: 493. Reverse Pairs | Probability: coupon collector | Probability: birthday paradox variants | CF 1675D Vertical Paths [1400]
+- [ ] **Sat, 2026-07-18:** Virtual Contest: Div 2 A-D in C++ | Upsolve all | LC: 85. Maximal Rectangle | LC: 1482. Min Days m Bouquets | ↺ Review Dijkstra + Bellman-Ford — code both from scratch | ↺ Review Union-Find — code from scratch with path compression | ML: first style transfer — debug!
+- [ ] **Sun, 2026-07-19:** Review: redo 2 hardest LC | LC: 1793. Max Score Good Subarray | ML: tune hyperparams → first visual! | ML: optimize iterations | Weekly reflection
+- [ ] **Mon, 2026-07-20:** LC: 2009. Min Ops Array Continuous | LC: 2328. Increasing Paths in Grid | LC: 2035. Partition Array Two Arrays | LC: 1944. Visible People in Queue | CF 1398C Good Subarrays [1400] | EV: optimal stopping problems
+- [ ] **Tue, 2026-07-21:** LC: 2071. Max Running Time N Computers | ML: multiple style support | ML: save intermediate images | ML: Flask/FastAPI backend | ML: upload endpoint
+- [ ] **Wed, 2026-07-22:** LC: 1691. Max Height Stacking Cuboids | LC: 1510. Stone Game IV | LC: 1770. Max Score Multiply Ops | LC: 1799. Maximize Score After N Ops | SysDesign: News Feed | CF 1426D Non-zero Segments [1400]
+- [ ] **Thu, 2026-07-23:** LC: 774. Min Max Distance Gas Station | ML: React frontend UI | ML: WebSocket live progress | ML: connect frontend↔backend | ML: end-to-end test
+- [ ] **Fri, 2026-07-24:** LC: 1425. Constrained Subseq Sum | LC: 146. LRU Cache ↺ (under 5min) | LC: 355. Design Twitter ↺ | EV: Kelly criterion basics | EV: game theory — Nash equilibrium | CF 1454D Number into Primes [1400]
+- [ ] **Sat, 2026-07-25:** Virtual Contest: Div 2 A-D in C++ | Upsolve all | LC: 380. Insert Delete GetRandom ↺ | LC: 460. LFU Cache ↺ | ↺ Review BFS/DFS templates — code both in C++ from scratch | ↺ Review binary search template — 3 variants from memory | ML: fix bugs + UX
+- [ ] **Sun, 2026-07-26:** Review: redo 2 hardest LC | LC: 10. Regex Matching ↺ | ML: style gallery (5+ paintings) | ML: resolution slider | Weekly reflection
+- [ ] **Mon, 2026-07-27:** LC: 329. Longest Increasing Path ↺ | LC: 297. Serialize/Deserialize ↺ | LC: 312. Burst Balloons ↺ | LC: 115. Distinct Subsequences ↺ | CF 1474C Array Destruction [1400] | EV: auction theory basics
+- [ ] **Tue, 2026-07-28:** LC: 218. Skyline Problem ↺ | ML: GPU optimization | ML: before/after view | ML: optimization animation | ML: polish + loading states
+- [ ] **Wed, 2026-07-29:** LC: 315. Count Smaller ↺ | LC: 887. Super Egg Drop ↺ | LC: 1. Two Sum | LC: 217. Contains Duplicate | SysDesign: Chat System | CF 1499C Minimum Distance [1400]
+- [ ] **Thu, 2026-07-30:** LC: 242. Valid Anagram | ML: README with demo GIFs | ML: technical blog post | ML: deploy to cloud | ML: unit tests
+- [ ] **Fri, 2026-07-31:** LC: 49. Group Anagrams | LC: 347. Top K Frequent Elements | LC: 238. Product of Array Except Self | Brainteaser: knights & knaves | Brainteaser: weighing puzzles | CF 1520D Same Differences [1400]
+- [ ] **Sat, 2026-08-01:** Virtual Contest: Div 2 A-D in C++ | Upsolve all | LC: 36. Valid Sudoku | LC: 128. Longest Consecutive Sequence | ↺ Redo your 3 hardest LC problems ever (check your notes) | ↺ Redo 2 hardest CF problems from past month | ML: benchmarks
+- [ ] **Sun, 2026-08-02:** Review: redo 2 hardest LC | LC: 125. Valid Palindrome | ML: ML PROJECT DEPLOYED ✅ | ML: read Gatys et al. paper | Weekly reflection
+- [ ] **Mon, 2026-08-03:** LC: 15. 3Sum | LC: 11. Container With Most Water | LC: 167. Two Sum II | LC: 42. Trapping Rain Water | CF 1541B Pleasant Pairs [1400] | Brainteaser: hat puzzles
+- [ ] **Tue, 2026-08-04:** LC: 121. Best Time to Buy and Sell Stock | ML: repo setup + deps | ML: matrix multiply from scratch | ML: conv layer forward pass | ML: pooling layer
+- [ ] **Wed, 2026-08-05:** LC: 3. Longest Substring Without Repeating | LC: 424. Longest Repeating Character Replacement | LC: 567. Permutation in String | LC: 76. Minimum Window Substring | SysDesign: Search Autocomplete | CF 1560D Make Power of Two [1400]
+- [ ] **Thu, 2026-08-06:** LC: 20. Valid Parentheses | ML: ReLU activation | ML: mini VGG forward pass | ML: backprop through conv | ML: backprop full network
+- [ ] **Fri, 2026-08-07:** LC: 155. Min Stack | LC: 150. Evaluate Reverse Polish Notation | LC: 22. Generate Parentheses | Brainteaser: infinity puzzles | C++ systems: cache lines & memory layout | CF 1569C Jury Meeting [1400]
+- [ ] **Sat, 2026-08-08:** Virtual Contest: Div 2 A-D in C++ | Upsolve all | LC: 739. Daily Temperatures | LC: 853. Car Fleet | ↺ Review all DP patterns: knapsack, LIS, interval, bitmask | ↺ Re-solve 3 company-tagged problems you previously solved | ML: content loss function
+- [ ] **Sun, 2026-08-09:** Review: redo 2 hardest LC | LC: 84. Largest Rectangle in Histogram | ML: style loss (Gram matrices) | ML: combine losses | Weekly reflection
+
+## 📅 Phase 6: Soph Fall + Recruiting
+- [ ] **Mon, 2026-08-10:** LC: 704. Binary Search | CF 1385D a-Good String [1500]
+- [ ] **Tue, 2026-08-11:** LC: 33. Search in Rotated Sorted Array | CF 1430D String Deletion [1500]
+- [ ] **Wed, 2026-08-12:** LC: 153. Find Min Rotated Sorted | CF 1451D Circle Game [1500]
+- [ ] **Thu, 2026-08-13:** LC: 875. Koko Eating Bananas | CF 1475E Advertising Agency [1500]
+- [ ] **Fri, 2026-08-14:** LC: 74. Search 2D Matrix | CF 1506D Epic Transformation [1500]
+- [ ] **Sat, 2026-08-15:** LC: 981. Time Based Key-Value Store | LC: 4. Median of Two Sorted Arrays | LC: 206. Reverse Linked List | Resume: update with latest | CF 1537E1 Erase and Extend [1500] | ↺ Review system design: pick random topic, whiteboard 15 min
+- [ ] **Sun, 2026-08-16:** LC: 21. Merge Two Sorted Lists | ML: first style transfer — debug! | ML: tune hyperparams → first visual! | C++ systems: move semantics & perfect forwarding
+- [ ] **Mon, 2026-08-17:** LC: 141. Linked List Cycle | CF 1555C Coin Rows [1500]
+- [ ] **Tue, 2026-08-18:** LC: 143. Reorder List | CF 1579D Productive Meeting [1500]
+- [ ] **Wed, 2026-08-19:** LC: 19. Remove Nth From End | CF 1612D X-Magic Pair [1500]
+- [ ] **Thu, 2026-08-20:** LC: 2. Add Two Numbers | CF 1624D Palindromes Coloring [1500]
+- [ ] **Fri, 2026-08-21:** LC: 138. Copy List Random Pointer | CF 1634C OKEA [1500]
+- [ ] **Sat, 2026-08-22:** LC: 146. LRU Cache | LC: 23. Merge K Sorted Lists | LC: 25. Reverse Nodes K-Group | Portfolio: website update | CF 1660D Max Product Strikes Back [1500] | ↺ Review STAR stories — practice out loud (timer: 2 min each)
+- [ ] **Sun, 2026-08-23:** LC: 226. Invert Binary Tree | ML: optimize iterations | ML: multiple style support | C++ systems: lock-free data structures
+- [ ] **Mon, 2026-08-24:** LC: 104. Maximum Depth | CF 1678B2 Good 01-String [1500]
+- [ ] **Tue, 2026-08-25:** LC: 100. Same Tree | CF 1700C Helping Nature [1500]
+- [ ] **Wed, 2026-08-26:** LC: 572. Subtree of Another | CF 1600E Array Game [1500]
+- [ ] **Thu, 2026-08-27:** LC: 110. Balanced Binary Tree | CF 1385D a-Good String [1500]
+- [ ] **Fri, 2026-08-28:** LC: 102. Level Order Traversal | CF 1430D String Deletion [1500]
+- [ ] **Sat, 2026-08-29:** LC: 98. Validate BST | LC: 230. Kth Smallest BST | LC: 105. Build Tree Preorder/Inorder | Apps: research 5 target companies | CF 1451D Circle Game [1500] | ↺ Redo LC 315 Count Smaller After Self
+- [ ] **Sun, 2026-08-30:** LC: 199. Right Side View | ML: save intermediate images | ML: Flask/FastAPI backend | C++ systems: template metaprogramming
+- [ ] **Mon, 2026-08-31:** LC: 1448. Count Good Nodes | CF 1475E Advertising Agency [1500]
+- [ ] **Tue, 2026-09-01:** LC: 235. LCA of BST | CF 1506D Epic Transformation [1500]
+- [ ] **Wed, 2026-09-02:** LC: 208. Implement Trie | CF 1537E1 Erase and Extend [1500]
+- [ ] **Thu, 2026-09-03:** LC: 211. Design Add Search Words | CF 1555C Coin Rows [1500]
+- [ ] **Fri, 2026-09-04:** LC: 124. Binary Tree Max Path Sum | CF 1579D Productive Meeting [1500]
+- [ ] **Sat, 2026-09-05:** LC: 297. Serialize/Deserialize BT | LC: 212. Word Search II | LC: 200. Number of Islands | Apps: tailor resume FAANG | CF 1612D X-Magic Pair [1500] | ↺ Redo LC 887 Super Egg Drop
+- [ ] **Sun, 2026-09-06:** LC: 133. Clone Graph | ML: upload endpoint | ML: React frontend UI | C++ systems: smart pointers deep dive
+- [ ] **Mon, 2026-09-07:** LC: 695. Max Area of Island | CF 1624D Palindromes Coloring [1500]
+- [ ] **Tue, 2026-09-08:** LC: 417. Pacific Atlantic Water Flow | CF 1634C OKEA [1500]
+- [ ] **Wed, 2026-09-09:** LC: 207. Course Schedule | CF 1660D Max Product Strikes Back [1500]
+- [ ] **Thu, 2026-09-10:** LC: 210. Course Schedule II | CF 1678B2 Good 01-String [1500]
+- [ ] **Fri, 2026-09-11:** LC: 994. Rotting Oranges | CF 1700C Helping Nature [1500]
+- [ ] **Sat, 2026-09-12:** LC: 130. Surrounded Regions | LC: 684. Redundant Connection | LC: 323. Connected Components | Apps: tailor resume quant | CF 1600E Array Game [1500] | ↺ Review probability: re-derive coupon collector EV
+- [ ] **Sun, 2026-09-13:** LC: 127. Word Ladder | ML: WebSocket live progress | ML: connect frontend↔backend | C++ systems: constexpr & compile-time
+- [ ] **Mon, 2026-09-14:** LC: 269. Alien Dictionary | CF 1385D a-Good String [1500]
+- [ ] **Tue, 2026-09-15:** LC: 778. Swim in Rising Water | CF 1430D String Deletion [1500]
+- [ ] **Wed, 2026-09-16:** LC: 70. Climbing Stairs | CF 1451D Circle Game [1500]
+- [ ] **Thu, 2026-09-17:** LC: 746. Min Cost Climbing | CF 1475E Advertising Agency [1500]
+- [ ] **Fri, 2026-09-18:** LC: 198. House Robber | CF 1506D Epic Transformation [1500]
+- [ ] **Sat, 2026-09-19:** LC: 213. House Robber II | LC: 5. Longest Palindromic Substring | LC: 647. Palindromic Substrings | Apps: apply to 5 companies | CF 1537E1 Erase and Extend [1500] | ↺ Speed round: 5 LC easys in 15 min (pattern recognition)
+- [ ] **Sun, 2026-09-20:** LC: 91. Decode Ways | ML: end-to-end test | ML: fix bugs + UX | C++ systems: SIMD/vectorization
+- [ ] **Mon, 2026-09-21:** LC: 322. Coin Change | CF 1555C Coin Rows [1500]
+- [ ] **Tue, 2026-09-22:** LC: 152. Max Product Subarray | CF 1579D Productive Meeting [1500]
+- [ ] **Wed, 2026-09-23:** LC: 139. Word Break | CF 1612D X-Magic Pair [1500]
+- [ ] **Thu, 2026-09-24:** LC: 300. LIS | CF 1624D Palindromes Coloring [1500]
+- [ ] **Fri, 2026-09-25:** LC: 416. Partition Equal Subset Sum | CF 1634C OKEA [1500]
+- [ ] **Sat, 2026-09-26:** LC: 62. Unique Paths | LC: 1143. Longest Common Subsequence | LC: 309. Best Time Cooldown | Apps: apply to 5 more | CF 1660D Max Product Strikes Back [1500] | ↺ Speed round: 3 LC mediums in 30 min
+- [ ] **Sun, 2026-09-27:** LC: 494. Target Sum | ML: style gallery (5+ paintings) | ML: resolution slider | C++ systems: profiling & benchmarking
+- [ ] **Mon, 2026-09-28:** LC: 97. Interleaving String | CF 1678B2 Good 01-String [1500]
+- [ ] **Tue, 2026-09-29:** LC: 518. Coin Change II | CF 1700C Helping Nature [1500]
+- [ ] **Wed, 2026-09-30:** LC: 72. Edit Distance | CF 1600E Array Game [1500]
+- [ ] **Thu, 2026-10-01:** LC: 312. Burst Balloons | CF 1385D a-Good String [1500]
+- [ ] **Fri, 2026-10-02:** LC: 10. Regular Expression Matching | CF 1430D String Deletion [1500]
+- [ ] **Sat, 2026-10-03:** LC: 329. Longest Increasing Path | LC: 115. Distinct Subsequences | LC: 78. Subsets | Apps: LinkedIn outreach (5) | CF 1451D Circle Game [1500] | ↺ Redo LC 76 Min Window Substring (under 10 min)
+- [ ] **Sun, 2026-10-04:** LC: 39. Combination Sum | ML: GPU optimization | ML: before/after view | Quant: Monte Carlo simulation
+- [ ] **Mon, 2026-10-05:** LC: 46. Permutations | CF 1475E Advertising Agency [1500]
+- [ ] **Tue, 2026-10-06:** LC: 79. Word Search | CF 1506D Epic Transformation [1500]
+- [ ] **Wed, 2026-10-07:** LC: 51. N-Queens | CF 1537E1 Erase and Extend [1500]
+- [ ] **Thu, 2026-10-08:** LC: 17. Letter Combinations | CF 1555C Coin Rows [1500]
+- [ ] **Fri, 2026-10-09:** LC: 131. Palindrome Partitioning | CF 1579D Productive Meeting [1500]
+- [ ] **Sat, 2026-10-10:** LC: 40. Combination Sum II | LC: 53. Maximum Subarray | LC: 55. Jump Game | Apps: follow up all | CF 1612D X-Magic Pair [1500] | ↺ Redo LC 42 Trapping Rain Water (under 8 min)
+- [ ] **Sun, 2026-10-11:** LC: 45. Jump Game II | ML: optimization animation | ML: polish + loading states | Quant: Black-Scholes intuition
+- [ ] **Mon, 2026-10-12:** LC: 134. Gas Station | CF 1624D Palindromes Coloring [1500]
+- [ ] **Tue, 2026-10-13:** LC: 846. Hand of Straights | CF 1634C OKEA [1500]
+- [ ] **Wed, 2026-10-14:** LC: 763. Partition Labels | CF 1660D Max Product Strikes Back [1500]
+- [ ] **Thu, 2026-10-15:** LC: 678. Valid Parenthesis String | CF 1678B2 Good 01-String [1500]
+- [ ] **Fri, 2026-10-16:** LC: 621. Task Scheduler | CF 1700C Helping Nature [1500]
+- [ ] **Sat, 2026-10-17:** LC: 56. Merge Intervals | LC: 435. Non-overlapping Intervals | LC: 57. Insert Interval | Behavioral: STAR #1 (tech challenge) | CF 1600E Array Game [1500] | ↺ Redo LC 23 Merge K Sorted Lists (under 12 min)
+- [ ] **Sun, 2026-10-18:** LC: 253. Meeting Rooms II | ML: README with demo GIFs | ML: technical blog post | Quant: Greeks intuition
+- [ ] **Mon, 2026-10-19:** LC: 136. Single Number | CF 1385D a-Good String [1500]
+- [ ] **Tue, 2026-10-20:** LC: 191. Number of 1 Bits | CF 1430D String Deletion [1500]
+- [ ] **Wed, 2026-10-21:** LC: 338. Counting Bits | CF 1451D Circle Game [1500]
+- [ ] **Thu, 2026-10-22:** LC: 268. Missing Number | CF 1475E Advertising Agency [1500]
+- [ ] **Fri, 2026-10-23:** LC: 48. Rotate Image | CF 1506D Epic Transformation [1500]
+- [ ] **Sat, 2026-10-24:** LC: 54. Spiral Matrix | LC: 73. Set Matrix Zeroes | LC: 50. Pow(x,n) | Behavioral: STAR #2 (teamwork) | CF 1537E1 Erase and Extend [1500] | ↺ Redo LC 124 BT Max Path Sum (under 10 min)
+- [ ] **Sun, 2026-10-25:** LC: 43. Multiply Strings | ML: deploy to cloud | ML: unit tests | Quant: market microstructure
+- [ ] **Mon, 2026-10-26:** LC: 295. Find Median Data Stream | CF 1555C Coin Rows [1500]
+- [ ] **Tue, 2026-10-27:** LC: 355. Design Twitter | CF 1579D Productive Meeting [1500]
+- [ ] **Wed, 2026-10-28:** LC: 973. K Closest Points | CF 1612D X-Magic Pair [1500]
+- [ ] **Thu, 2026-10-29:** LC: 703. Kth Largest Element | CF 1624D Palindromes Coloring [1500]
+- [ ] **Fri, 2026-10-30:** LC: 1046. Last Stone Weight | CF 1634C OKEA [1500]
+- [ ] **Sat, 2026-10-31:** LC: 380. Insert Delete GetRandom | LC: 460. LFU Cache | LC: 895. Max Frequency Stack | Behavioral: STAR #3 (leadership) | CF 1660D Max Product Strikes Back [1500] | ↺ Redo LC 297 Serialize/Deserialize BT
+- [ ] **Sun, 2026-11-01:** LC: 843. Guess the Word | ML: benchmarks | ML: ML PROJECT DEPLOYED ✅ | Probability: Bayes' theorem (3 problems)
+- [ ] **Mon, 2026-11-02:** LC: 1048. Longest String Chain | CF 1678B2 Good 01-String [1500]
+- [ ] **Tue, 2026-11-03:** LC: 1293. Shortest Path Obstacles | CF 1700C Helping Nature [1500]
+- [ ] **Wed, 2026-11-04:** LC: 394. Decode String | CF 1600E Array Game [1500]
+- [ ] **Thu, 2026-11-05:** LC: 314. Vertical Order Traversal | CF 1385D a-Good String [1500]
+- [ ] **Fri, 2026-11-06:** LC: 1249. Min Remove Valid Parens | CF 1430D String Deletion [1500]
+- [ ] **Sat, 2026-11-07:** LC: 680. Valid Palindrome II | LC: 227. Basic Calculator II | LC: 937. Reorder Data in Log Files | Behavioral: STAR #4 (failure) | CF 1451D Circle Game [1500] | ↺ Redo LC 84 Largest Rectangle Histogram
+- [ ] **Sun, 2026-11-08:** LC: 1268. Search Suggestions | ML: read Gatys et al. paper | ML: repo setup + deps | Probability: conditional probability
+- [ ] **Mon, 2026-11-09:** LC: 472. Concatenated Words | CF 1475E Advertising Agency [1500]
+- [ ] **Tue, 2026-11-10:** LC: 1192. Critical Connections | CF 1506D Epic Transformation [1500]
+- [ ] **Wed, 2026-11-11:** LC: 41. First Missing Positive | CF 1537E1 Erase and Extend [1500]
+- [ ] **Thu, 2026-11-12:** LC: 218. The Skyline Problem | CF 1555C Coin Rows [1500]
+- [ ] **Fri, 2026-11-13:** LC: 315. Count Smaller After Self | CF 1579D Productive Meeting [1500]
+- [ ] **Sat, 2026-11-14:** LC: 887. Super Egg Drop | LC: 470. Rand10 Using Rand7 | LC: 239. Sliding Window Maximum | Behavioral: STAR #5 (impact) | CF 1612D X-Magic Pair [1500] | ↺ Redo LC 72 Edit Distance (write recurrence from memory)
+- [ ] **Sun, 2026-11-15:** LC: 1235. Max Profit Job Scheduling | ML: matrix multiply from scratch | ML: conv layer forward pass | Probability: expected value calculations
+- [ ] **Mon, 2026-11-16:** LC: 410. Split Array Largest Sum | CF 1624D Palindromes Coloring [1500]
+- [ ] **Tue, 2026-11-17:** LC: 862. Shortest Subarray Sum K | CF 1634C OKEA [1500]
+- [ ] **Wed, 2026-11-18:** LC: 1383. Max Performance Team | CF 1660D Max Product Strikes Back [1500]
+- [ ] **Thu, 2026-11-19:** LC: 403. Frog Jump | CF 1678B2 Good 01-String [1500]
+- [ ] **Fri, 2026-11-20:** LC: 76. Min Window Substring ↺ | CF 1700C Helping Nature [1500]
+- [ ] **Sat, 2026-11-21:** LC: 124. BT Max Path Sum ↺ | LC: 23. Merge K Lists ↺ | LC: 42. Trapping Rain Water ↺ | Behavioral: 5-min project pitch | CF 1600E Array Game [1500] | ↺ Redo LC 4 Median of Two Sorted Arrays
+- [ ] **Sun, 2026-11-22:** LC: 84. Largest Rectangle ↺ | ML: pooling layer | ML: ReLU activation | Probability: geometric & negative binomial
+- [ ] **Mon, 2026-11-23:** LC: 72. Edit Distance ↺ | CF 1385D a-Good String [1500]
+- [ ] **Tue, 2026-11-24:** LC: 4. Median Two Arrays ↺ | CF 1430D String Deletion [1500]
+- [ ] **Wed, 2026-11-25:** LC: 1335. Min Difficulty Job Schedule | CF 1451D Circle Game [1500]
+- [ ] **Thu, 2026-11-26:** LC: 1547. Min Cost Cut Stick | CF 1475E Advertising Agency [1500]
+- [ ] **Fri, 2026-11-27:** LC: 1696. Jump Game VI | CF 1506D Epic Transformation [1500]
+- [ ] **Sat, 2026-11-28:** LC: 1937. Max Points with Cost | LC: 1964. Find Longest Valid Obstacle | LC: 1406. Stone Game III | Behavioral: 'tell me about yourself' | CF 1537E1 Erase and Extend [1500] | ↺ Redo LC 146 LRU Cache (under 8 min)
+- [ ] **Sun, 2026-11-29:** LC: 1140. Stone Game II | ML: mini VGG forward pass | ML: backprop through conv | Brainteaser: 'Heard on the Street' chapter
+- [ ] **Mon, 2026-11-30:** LC: 877. Stone Game | CF 1555C Coin Rows [1500]
+- [ ] **Tue, 2026-12-01:** LC: 327. Count of Range Sum | CF 1579D Productive Meeting [1500]
+- [ ] **Wed, 2026-12-02:** LC: 493. Reverse Pairs | CF 1612D X-Magic Pair [1500]
+- [ ] **Thu, 2026-12-03:** LC: 85. Maximal Rectangle | CF 1624D Palindromes Coloring [1500]
+- [ ] **Fri, 2026-12-04:** LC: 1482. Min Days m Bouquets | CF 1634C OKEA [1500]
+- [ ] **Sat, 2026-12-05:** LC: 1793. Max Score Good Subarray | LC: 2009. Min Ops Array Continuous | LC: 2328. Increasing Paths in Grid | Behavioral: 'why this company?' | CF 1660D Max Product Strikes Back [1500] | ↺ Redo LC 312 Burst Balloons (derive DP state)
+- [ ] **Sun, 2026-12-06:** LC: 2035. Partition Array Two Arrays | ML: backprop full network | ML: content loss function | Brainteaser: classic quant puzzles (5)
+- [ ] **Mon, 2026-12-07:** LC: 1944. Visible People in Queue | CF 1678B2 Good 01-String [1500]
+- [ ] **Tue, 2026-12-08:** LC: 2071. Max Running Time N Computers | CF 1700C Helping Nature [1500]
+- [ ] **Wed, 2026-12-09:** LC: 1691. Max Height Stacking Cuboids | CF 1600E Array Game [1500]
+- [ ] **Thu, 2026-12-10:** LC: 1510. Stone Game IV | CF 1385D a-Good String [1500]
+- [ ] **Fri, 2026-12-11:** LC: 1770. Max Score Multiply Ops | CF 1430D String Deletion [1500]
+- [ ] **Sat, 2026-12-12:** LC: 1799. Maximize Score After N Ops | LC: 774. Min Max Distance Gas Station | LC: 1425. Constrained Subseq Sum | Mock: 2 mediums 40 min | CF 1451D Circle Game [1500] | ↺ Redo LC 239 Sliding Window Maximum
+- [ ] **Sun, 2026-12-13:** LC: 146. LRU Cache ↺ (under 5min) | ML: style loss (Gram matrices) | ML: combine losses | Brainteaser: Fermi estimation
+- [ ] **Mon, 2026-12-14:** LC: 355. Design Twitter ↺ | CF 1475E Advertising Agency [1500]
+- [ ] **Tue, 2026-12-15:** LC: 380. Insert Delete GetRandom ↺ | CF 1506D Epic Transformation [1500]
+- [ ] **Wed, 2026-12-16:** LC: 460. LFU Cache ↺ | CF 1537E1 Erase and Extend [1500]
+- [ ] **Thu, 2026-12-17:** LC: 10. Regex Matching ↺ | CF 1555C Coin Rows [1500]
+- [ ] **Fri, 2026-12-18:** LC: 329. Longest Increasing Path ↺ | CF 1579D Productive Meeting [1500]
+- [ ] **Sat, 2026-12-19:** LC: 297. Serialize/Deserialize ↺ | LC: 312. Burst Balloons ↺ | LC: 115. Distinct Subsequences ↺ | Mock: 1 hard 45 min | CF 1612D X-Magic Pair [1500] | ↺ Redo LC 218 Skyline Problem
+- [ ] **Sun, 2026-12-20:** LC: 218. Skyline Problem ↺ | ML: first style transfer — debug! | ML: tune hyperparams → first visual! | Brainteaser: combinatorics puzzles
+- [ ] **Mon, 2026-12-21:** LC: 315. Count Smaller ↺ | CF 1624D Palindromes Coloring [1500]
+- [ ] **Tue, 2026-12-22:** LC: 887. Super Egg Drop ↺ | CF 1634C OKEA [1500]
+- [ ] **Wed, 2026-12-23:** LC: 1. Two Sum | CF 1660D Max Product Strikes Back [1500]
+- [ ] **Thu, 2026-12-24:** LC: 217. Contains Duplicate | CF 1678B2 Good 01-String [1500]
+- [ ] **Fri, 2026-12-25:** LC: 242. Valid Anagram | CF 1700C Helping Nature [1500]
+- [ ] **Sat, 2026-12-26:** LC: 49. Group Anagrams | LC: 347. Top K Frequent Elements | LC: 238. Product of Array Except Self | Mock: 1E+1M+1H 75 min | CF 1600E Array Game [1500] | ↺ Re-derive Bayes' theorem from scratch + 2 problems
+- [ ] **Sun, 2026-12-27:** LC: 36. Valid Sudoku | ML: optimize iterations | ML: multiple style support | Mental math: 2-digit × 2-digit speed drills
+- [ ] **Mon, 2026-12-28:** LC: 128. Longest Consecutive Sequence | CF 1385D a-Good String [1500]
+- [ ] **Tue, 2026-12-29:** LC: 125. Valid Palindrome | CF 1430D String Deletion [1500]
+- [ ] **Wed, 2026-12-30:** LC: 15. 3Sum | CF 1451D Circle Game [1500]
+- [ ] **Thu, 2026-12-31:** LC: 11. Container With Most Water | CF 1475E Advertising Agency [1500]
+
+## 📅 Phase 7: Soph Spring + PROJ3
+- [ ] **Fri, 2027-01-01:** LC: 167. Two Sum II | CF 1249C2 Good Numbers [1600]
+- [ ] **Sat, 2027-01-02:** Mock: 1E+1M+1H in 75 min | SysDesign: Notification System | LC: 42. Trapping Rain Water | CF 1312D Count the Arrays [1600] | ↺ Re-derive expected value formulas + 3 problems
+- [ ] **Sun, 2027-01-03:** LC: 121. Best Time to Buy and Sell Stock | C++ Sys: choose project (trading sim / DB engine / distributed KV) | C++ Sys: architecture design doc | Mental math: fraction/decimal conversion
+- [ ] **Mon, 2027-01-04:** LC: 3. Longest Substring Without Repeating | CF 1370D Odd-Even Subseq [1600]
+- [ ] **Tue, 2027-01-05:** LC: 424. Longest Repeating Character Replacement | CF 1418C Mortal Kombat Tower [1600]
+- [ ] **Wed, 2027-01-06:** LC: 567. Permutation in String | CF 1462E1 Close Tuples [1600]
+- [ ] **Thu, 2027-01-07:** LC: 76. Minimum Window Substring | CF 1504B Flip the Bits [1600]
+- [ ] **Fri, 2027-01-08:** LC: 20. Valid Parentheses | CF 1547D Co-growing Sequence [1600]
+- [ ] **Sat, 2027-01-09:** Mock: 1E+1M+1H in 75 min | SysDesign: Web Crawler | LC: 155. Min Stack | CF 1551D1 Domino [1600] | ↺ Re-derive Markov chain stationary distribution
+- [ ] **Sun, 2027-01-10:** LC: 150. Evaluate Reverse Polish Notation | C++ Sys: project setup + CMake | C++ Sys: core data structures | Mental math: estimate sqrt, logs
+- [ ] **Mon, 2027-01-11:** LC: 22. Generate Parentheses | CF 1579E1 Perm Minimization [1600]
+- [ ] **Tue, 2027-01-12:** LC: 739. Daily Temperatures | CF 1611E1 Escape Maze [1600]
+- [ ] **Wed, 2027-01-13:** LC: 853. Car Fleet | CF 1650D Twist the Permutation [1600]
+- [ ] **Thu, 2027-01-14:** LC: 84. Largest Rectangle in Histogram | CF 1679B Stone Age Problem [1600]
+- [ ] **Fri, 2027-01-15:** LC: 704. Binary Search | CF 1703E Mirror Grid [1600]
+- [ ] **Sat, 2027-01-16:** Mock: 1E+1M+1H in 75 min | SysDesign: Nearby Friends | LC: 33. Search in Rotated Sorted Array | CF 1726B Mainak Sequence [1600] | ↺ Review C++ memory layout notes + write from memory
+- [ ] **Sun, 2027-01-17:** LC: 153. Find Min Rotated Sorted | C++ Sys: network layer / IO | C++ Sys: protocol implementation | Probability: Markov chains intro
+- [ ] **Mon, 2027-01-18:** LC: 875. Koko Eating Bananas | CF 1742E Scuza [1600]
+- [ ] **Tue, 2027-01-19:** LC: 74. Search 2D Matrix | CF 1249C2 Good Numbers [1600]
+- [ ] **Wed, 2027-01-20:** LC: 981. Time Based Key-Value Store | CF 1312D Count the Arrays [1600]
+- [ ] **Thu, 2027-01-21:** LC: 4. Median of Two Sorted Arrays | CF 1370D Odd-Even Subseq [1600]
+- [ ] **Fri, 2027-01-22:** LC: 206. Reverse Linked List | CF 1418C Mortal Kombat Tower [1600]
+- [ ] **Sat, 2027-01-23:** Mock: 1E+1M+1H in 75 min | SysDesign: Google Maps | LC: 21. Merge Two Sorted Lists | CF 1462E1 Close Tuples [1600] | ↺ Review segment tree implementation — code from scratch
+- [ ] **Sun, 2027-01-24:** LC: 141. Linked List Cycle | C++ Sys: concurrency / threading | C++ Sys: event loop / async | Probability: random walks & gambler's ruin
+- [ ] **Mon, 2027-01-25:** LC: 143. Reorder List | CF 1504B Flip the Bits [1600]
+- [ ] **Tue, 2027-01-26:** LC: 19. Remove Nth From End | CF 1547D Co-growing Sequence [1600]
+- [ ] **Wed, 2027-01-27:** LC: 2. Add Two Numbers | CF 1551D1 Domino [1600]
+- [ ] **Thu, 2027-01-28:** LC: 138. Copy List Random Pointer | CF 1579E1 Perm Minimization [1600]
+- [ ] **Fri, 2027-01-29:** LC: 146. LRU Cache | CF 1611E1 Escape Maze [1600]
+- [ ] **Sat, 2027-01-30:** Mock: 1E+1M+1H in 75 min | SysDesign: Uber | LC: 23. Merge K Sorted Lists | CF 1650D Twist the Permutation [1600] | ↺ Review Dijkstra + Bellman-Ford — code both from scratch
+- [ ] **Sun, 2027-01-31:** LC: 25. Reverse Nodes K-Group | C++ Sys: serialization layer | C++ Sys: testing framework | Probability: coupon collector
+- [ ] **Mon, 2027-02-01:** LC: 226. Invert Binary Tree | CF 1679B Stone Age Problem [1600]
+- [ ] **Tue, 2027-02-02:** LC: 104. Maximum Depth | CF 1703E Mirror Grid [1600]
+- [ ] **Wed, 2027-02-03:** LC: 100. Same Tree | CF 1726B Mainak Sequence [1600]
+- [ ] **Thu, 2027-02-04:** LC: 572. Subtree of Another | CF 1742E Scuza [1600]
+- [ ] **Fri, 2027-02-05:** LC: 110. Balanced Binary Tree | CF 1249C2 Good Numbers [1600]
+- [ ] **Sat, 2027-02-06:** Mock: 1E+1M+1H in 75 min | SysDesign: Google Docs | LC: 102. Level Order Traversal | CF 1312D Count the Arrays [1600] | ↺ Review Union-Find — code from scratch with path compression
+- [ ] **Sun, 2027-02-07:** LC: 98. Validate BST | C++ Sys: integration tests | C++ Sys: benchmarking suite | Probability: birthday paradox variants
+- [ ] **Mon, 2027-02-08:** LC: 230. Kth Smallest BST | CF 1370D Odd-Even Subseq [1600]
+- [ ] **Tue, 2027-02-09:** LC: 105. Build Tree Preorder/Inorder | CF 1418C Mortal Kombat Tower [1600]
+- [ ] **Wed, 2027-02-10:** LC: 199. Right Side View | CF 1462E1 Close Tuples [1600]
+- [ ] **Thu, 2027-02-11:** LC: 1448. Count Good Nodes | CF 1504B Flip the Bits [1600]
+- [ ] **Fri, 2027-02-12:** LC: 235. LCA of BST | CF 1547D Co-growing Sequence [1600]
+- [ ] **Sat, 2027-02-13:** Mock: 1E+1M+1H in 75 min | SysDesign: YouTube | LC: 208. Implement Trie | CF 1551D1 Domino [1600] | ↺ Review BFS/DFS templates — code both in C++ from scratch
+- [ ] **Sun, 2027-02-14:** LC: 211. Design Add Search Words | C++ Sys: optimization pass #1 | C++ Sys: optimization pass #2 (cache-friendly) | EV: optimal stopping problems
+- [ ] **Mon, 2027-02-15:** LC: 124. Binary Tree Max Path Sum | CF 1579E1 Perm Minimization [1600]
+- [ ] **Tue, 2027-02-16:** LC: 297. Serialize/Deserialize BT | CF 1611E1 Escape Maze [1600]
+- [ ] **Wed, 2027-02-17:** LC: 212. Word Search II | CF 1650D Twist the Permutation [1600]
+- [ ] **Thu, 2027-02-18:** LC: 200. Number of Islands | CF 1679B Stone Age Problem [1600]
+- [ ] **Fri, 2027-02-19:** LC: 133. Clone Graph | CF 1703E Mirror Grid [1600]
+- [ ] **Sat, 2027-02-20:** Mock: 1E+1M+1H in 75 min | SysDesign: Zoom | LC: 695. Max Area of Island | CF 1726B Mainak Sequence [1600] | ↺ Review binary search template — 3 variants from memory
+- [ ] **Sun, 2027-02-21:** LC: 417. Pacific Atlantic Water Flow | C++ Sys: memory profiling + leak detection | C++ Sys: lock-free optimization | EV: Kelly criterion basics
+- [ ] **Mon, 2027-02-22:** LC: 207. Course Schedule | CF 1742E Scuza [1600]
+- [ ] **Tue, 2027-02-23:** LC: 210. Course Schedule II | CF 1249C2 Good Numbers [1600]
+- [ ] **Wed, 2027-02-24:** LC: 994. Rotting Oranges | CF 1312D Count the Arrays [1600]
+- [ ] **Thu, 2027-02-25:** LC: 130. Surrounded Regions | CF 1370D Odd-Even Subseq [1600]
+- [ ] **Fri, 2027-02-26:** LC: 684. Redundant Connection | CF 1418C Mortal Kombat Tower [1600]
+- [ ] **Sat, 2027-02-27:** Mock: 1E+1M+1H in 75 min | SysDesign: Twitter | LC: 323. Connected Components | CF 1462E1 Close Tuples [1600] | ↺ Redo your 3 hardest LC problems ever (check your notes)
+- [ ] **Sun, 2027-02-28:** LC: 127. Word Ladder | C++ Sys: documentation | C++ Sys: demo + visualization | EV: game theory — Nash equilibrium
+- [ ] **Mon, 2027-03-01:** LC: 269. Alien Dictionary | CF 1504B Flip the Bits [1600]
+- [ ] **Tue, 2027-03-02:** LC: 778. Swim in Rising Water | CF 1547D Co-growing Sequence [1600]
+- [ ] **Wed, 2027-03-03:** LC: 70. Climbing Stairs | CF 1551D1 Domino [1600]
+- [ ] **Thu, 2027-03-04:** LC: 746. Min Cost Climbing | CF 1579E1 Perm Minimization [1600]
+- [ ] **Fri, 2027-03-05:** LC: 198. House Robber | CF 1611E1 Escape Maze [1600]
+- [ ] **Sat, 2027-03-06:** Mock: 1E+1M+1H in 75 min | SysDesign: Netflix | LC: 213. House Robber II | CF 1650D Twist the Permutation [1600] | ↺ Redo 2 hardest CF problems from past month
+- [ ] **Sun, 2027-03-07:** LC: 5. Longest Palindromic Substring | C++ Sys: deploy + README | C++ Sys: blog post (architecture deep dive) | EV: auction theory basics
+- [ ] **Mon, 2027-03-08:** LC: 647. Palindromic Substrings | CF 1679B Stone Age Problem [1600]
+- [ ] **Tue, 2027-03-09:** LC: 91. Decode Ways | CF 1703E Mirror Grid [1600]
+- [ ] **Wed, 2027-03-10:** LC: 322. Coin Change | CF 1726B Mainak Sequence [1600]
+- [ ] **Thu, 2027-03-11:** LC: 152. Max Product Subarray | CF 1742E Scuza [1600]
+- [ ] **Fri, 2027-03-12:** LC: 139. Word Break | CF 1249C2 Good Numbers [1600]
+- [ ] **Sat, 2027-03-13:** Mock: 1E+1M+1H in 75 min | SysDesign: WhatsApp | LC: 300. LIS | CF 1312D Count the Arrays [1600] | ↺ Review all DP patterns: knapsack, LIS, interval, bitmask
+- [ ] **Sun, 2027-03-14:** LC: 416. Partition Equal Subset Sum | C++ Sys: SYSTEMS PROJECT DONE ✅ | C++ Sys: choose project (trading sim / DB engine / distributed KV) | Brainteaser: knights & knaves
+- [ ] **Mon, 2027-03-15:** LC: 62. Unique Paths | CF 1370D Odd-Even Subseq [1600]
+- [ ] **Tue, 2027-03-16:** LC: 1143. Longest Common Subsequence | CF 1418C Mortal Kombat Tower [1600]
+- [ ] **Wed, 2027-03-17:** LC: 309. Best Time Cooldown | CF 1462E1 Close Tuples [1600]
+- [ ] **Thu, 2027-03-18:** LC: 494. Target Sum | CF 1504B Flip the Bits [1600]
+- [ ] **Fri, 2027-03-19:** LC: 97. Interleaving String | CF 1547D Co-growing Sequence [1600]
+- [ ] **Sat, 2027-03-20:** Mock: 1E+1M+1H in 75 min | SysDesign: Instagram | LC: 518. Coin Change II | CF 1551D1 Domino [1600] | ↺ Re-solve 3 company-tagged problems you previously solved
+- [ ] **Sun, 2027-03-21:** LC: 72. Edit Distance | C++ Sys: architecture design doc | C++ Sys: project setup + CMake | Brainteaser: weighing puzzles
+- [ ] **Mon, 2027-03-22:** LC: 312. Burst Balloons | CF 1579E1 Perm Minimization [1600]
+- [ ] **Tue, 2027-03-23:** LC: 10. Regular Expression Matching | CF 1611E1 Escape Maze [1600]
+- [ ] **Wed, 2027-03-24:** LC: 329. Longest Increasing Path | CF 1650D Twist the Permutation [1600]
+- [ ] **Thu, 2027-03-25:** LC: 115. Distinct Subsequences | CF 1679B Stone Age Problem [1600]
+- [ ] **Fri, 2027-03-26:** LC: 78. Subsets | CF 1703E Mirror Grid [1600]
+- [ ] **Sat, 2027-03-27:** Mock: 1E+1M+1H in 75 min | SysDesign: Dropbox | LC: 39. Combination Sum | CF 1726B Mainak Sequence [1600] | ↺ Review system design: pick random topic, whiteboard 15 min
+- [ ] **Sun, 2027-03-28:** LC: 46. Permutations | C++ Sys: core data structures | C++ Sys: network layer / IO | Brainteaser: hat puzzles
+- [ ] **Mon, 2027-03-29:** LC: 79. Word Search | CF 1742E Scuza [1600]
+- [ ] **Tue, 2027-03-30:** LC: 51. N-Queens | CF 1249C2 Good Numbers [1600]
+- [ ] **Wed, 2027-03-31:** LC: 17. Letter Combinations | CF 1312D Count the Arrays [1600]
+- [ ] **Thu, 2027-04-01:** LC: 131. Palindrome Partitioning | CF 1370D Odd-Even Subseq [1600]
+- [ ] **Fri, 2027-04-02:** LC: 40. Combination Sum II | CF 1418C Mortal Kombat Tower [1600]
+- [ ] **Sat, 2027-04-03:** Mock: 1E+1M+1H in 75 min | SysDesign: Slack | LC: 53. Maximum Subarray | CF 1462E1 Close Tuples [1600] | ↺ Review STAR stories — practice out loud (timer: 2 min each)
+- [ ] **Sun, 2027-04-04:** LC: 55. Jump Game | C++ Sys: protocol implementation | C++ Sys: concurrency / threading | Brainteaser: infinity puzzles
+- [ ] **Mon, 2027-04-05:** LC: 45. Jump Game II | CF 1504B Flip the Bits [1600]
+- [ ] **Tue, 2027-04-06:** LC: 134. Gas Station | CF 1547D Co-growing Sequence [1600]
+- [ ] **Wed, 2027-04-07:** LC: 846. Hand of Straights | CF 1551D1 Domino [1600]
+- [ ] **Thu, 2027-04-08:** LC: 763. Partition Labels | CF 1579E1 Perm Minimization [1600]
+- [ ] **Fri, 2027-04-09:** LC: 678. Valid Parenthesis String | CF 1611E1 Escape Maze [1600]
+- [ ] **Sat, 2027-04-10:** Mock: 1E+1M+1H in 75 min | SysDesign: Spotify | LC: 621. Task Scheduler | CF 1650D Twist the Permutation [1600] | ↺ Redo LC 315 Count Smaller After Self
+- [ ] **Sun, 2027-04-11:** LC: 56. Merge Intervals | C++ Sys: event loop / async | C++ Sys: serialization layer | C++ systems: cache lines & memory layout
+- [ ] **Mon, 2027-04-12:** LC: 435. Non-overlapping Intervals | CF 1679B Stone Age Problem [1600]
+- [ ] **Tue, 2027-04-13:** LC: 57. Insert Interval | CF 1703E Mirror Grid [1600]
+- [ ] **Wed, 2027-04-14:** LC: 253. Meeting Rooms II | CF 1726B Mainak Sequence [1600]
+- [ ] **Thu, 2027-04-15:** LC: 136. Single Number | CF 1742E Scuza [1600]
+- [ ] **Fri, 2027-04-16:** LC: 191. Number of 1 Bits | CF 1249C2 Good Numbers [1600]
+- [ ] **Sat, 2027-04-17:** Mock: 1E+1M+1H in 75 min | SysDesign: TikTok | LC: 338. Counting Bits | CF 1312D Count the Arrays [1600] | ↺ Redo LC 887 Super Egg Drop
+- [ ] **Sun, 2027-04-18:** LC: 268. Missing Number | C++ Sys: testing framework | C++ Sys: integration tests | C++ systems: move semantics & perfect forwarding
+- [ ] **Mon, 2027-04-19:** LC: 48. Rotate Image | CF 1370D Odd-Even Subseq [1600]
+- [ ] **Tue, 2027-04-20:** LC: 54. Spiral Matrix | CF 1418C Mortal Kombat Tower [1600]
+- [ ] **Wed, 2027-04-21:** LC: 73. Set Matrix Zeroes | CF 1462E1 Close Tuples [1600]
+- [ ] **Thu, 2027-04-22:** LC: 50. Pow(x,n) | CF 1504B Flip the Bits [1600]
+- [ ] **Fri, 2027-04-23:** LC: 43. Multiply Strings | CF 1547D Co-growing Sequence [1600]
+- [ ] **Sat, 2027-04-24:** Mock: 1E+1M+1H in 75 min | SysDesign: Airbnb | LC: 295. Find Median Data Stream | CF 1551D1 Domino [1600] | ↺ Review probability: re-derive coupon collector EV
+- [ ] **Sun, 2027-04-25:** LC: 355. Design Twitter | C++ Sys: benchmarking suite | C++ Sys: optimization pass #1 | C++ systems: lock-free data structures
+- [ ] **Mon, 2027-04-26:** LC: 973. K Closest Points | CF 1579E1 Perm Minimization [1600]
+- [ ] **Tue, 2027-04-27:** LC: 703. Kth Largest Element | CF 1611E1 Escape Maze [1600]
+- [ ] **Wed, 2027-04-28:** LC: 1046. Last Stone Weight | CF 1650D Twist the Permutation [1600]
+- [ ] **Thu, 2027-04-29:** LC: 380. Insert Delete GetRandom | CF 1679B Stone Age Problem [1600]
+- [ ] **Fri, 2027-04-30:** LC: 460. LFU Cache | CF 1703E Mirror Grid [1600]
+- [ ] **Sat, 2027-05-01:** Mock: 1E+1M+1H in 75 min | SysDesign: Stock Exchange Matching Engine | LC: 895. Max Frequency Stack | CF 1726B Mainak Sequence [1600] | ↺ Speed round: 5 LC easys in 15 min (pattern recognition)
+- [ ] **Sun, 2027-05-02:** LC: 843. Guess the Word | C++ Sys: optimization pass #2 (cache-friendly) | C++ Sys: memory profiling + leak detection | C++ systems: template metaprogramming
+- [ ] **Mon, 2027-05-03:** LC: 1048. Longest String Chain | CF 1742E Scuza [1600]
+- [ ] **Tue, 2027-05-04:** LC: 1293. Shortest Path Obstacles | CF 1249C2 Good Numbers [1600]
+- [ ] **Wed, 2027-05-05:** LC: 394. Decode String | CF 1312D Count the Arrays [1600]
+- [ ] **Thu, 2027-05-06:** LC: 314. Vertical Order Traversal | CF 1370D Odd-Even Subseq [1600]
+- [ ] **Fri, 2027-05-07:** LC: 1249. Min Remove Valid Parens | CF 1418C Mortal Kombat Tower [1600]
+- [ ] **Sat, 2027-05-08:** Mock: 1E+1M+1H in 75 min | SysDesign: Distributed Cache | LC: 680. Valid Palindrome II | CF 1462E1 Close Tuples [1600] | ↺ Speed round: 3 LC mediums in 30 min
+- [ ] **Sun, 2027-05-09:** LC: 227. Basic Calculator II | C++ Sys: lock-free optimization | C++ Sys: documentation | C++ systems: smart pointers deep dive
+- [ ] **Mon, 2027-05-10:** LC: 937. Reorder Data in Log Files | CF 1504B Flip the Bits [1600]
+- [ ] **Tue, 2027-05-11:** LC: 1268. Search Suggestions | CF 1547D Co-growing Sequence [1600]
+- [ ] **Wed, 2027-05-12:** LC: 472. Concatenated Words | CF 1551D1 Domino [1600]
+- [ ] **Thu, 2027-05-13:** LC: 1192. Critical Connections | CF 1579E1 Perm Minimization [1600]
+- [ ] **Fri, 2027-05-14:** LC: 41. First Missing Positive | CF 1611E1 Escape Maze [1600]
+- [ ] **Sat, 2027-05-15:** Mock: 1E+1M+1H in 75 min | SysDesign: Message Queue | LC: 218. The Skyline Problem | CF 1650D Twist the Permutation [1600] | ↺ Redo LC 76 Min Window Substring (under 10 min)
+- [ ] **Sun, 2027-05-16:** LC: 315. Count Smaller After Self | C++ Sys: demo + visualization | C++ Sys: deploy + README | C++ systems: constexpr & compile-time
+- [ ] **Mon, 2027-05-17:** LC: 887. Super Egg Drop | CF 1679B Stone Age Problem [1600]
+- [ ] **Tue, 2027-05-18:** LC: 470. Rand10 Using Rand7 | CF 1703E Mirror Grid [1600]
+- [ ] **Wed, 2027-05-19:** LC: 239. Sliding Window Maximum | CF 1726B Mainak Sequence [1600]
+- [ ] **Thu, 2027-05-20:** LC: 1235. Max Profit Job Scheduling | CF 1742E Scuza [1600]
+- [ ] **Fri, 2027-05-21:** LC: 410. Split Array Largest Sum | CF 1249C2 Good Numbers [1600]
+- [ ] **Sat, 2027-05-22:** Mock: 1E+1M+1H in 75 min | SysDesign: Payment System | LC: 862. Shortest Subarray Sum K | CF 1312D Count the Arrays [1600] | ↺ Redo LC 42 Trapping Rain Water (under 8 min)
+- [ ] **Sun, 2027-05-23:** LC: 1383. Max Performance Team | C++ Sys: blog post (architecture deep dive) | C++ Sys: SYSTEMS PROJECT DONE ✅ | C++ systems: SIMD/vectorization
+- [ ] **Mon, 2027-05-24:** LC: 403. Frog Jump | CF 1370D Odd-Even Subseq [1600]
+- [ ] **Tue, 2027-05-25:** LC: 76. Min Window Substring ↺ | CF 1418C Mortal Kombat Tower [1600]
+- [ ] **Wed, 2027-05-26:** LC: 124. BT Max Path Sum ↺ | CF 1462E1 Close Tuples [1600]
+- [ ] **Thu, 2027-05-27:** LC: 23. Merge K Lists ↺ | CF 1504B Flip the Bits [1600]
+- [ ] **Fri, 2027-05-28:** LC: 42. Trapping Rain Water ↺ | CF 1547D Co-growing Sequence [1600]
+- [ ] **Sat, 2027-05-29:** Mock: 1E+1M+1H in 75 min | SysDesign: Metrics/Monitoring | LC: 84. Largest Rectangle ↺ | CF 1551D1 Domino [1600] | ↺ Redo LC 23 Merge K Sorted Lists (under 12 min)
+- [ ] **Sun, 2027-05-30:** LC: 72. Edit Distance ↺ | C++ Sys: choose project (trading sim / DB engine / distributed KV) | C++ Sys: architecture design doc | C++ systems: profiling & benchmarking
+- [ ] **Mon, 2027-05-31:** LC: 4. Median Two Arrays ↺ | CF 1579E1 Perm Minimization [1600]
+- [ ] **Tue, 2027-06-01:** LC: 1335. Min Difficulty Job Schedule | CF 1611E1 Escape Maze [1600]
+- [ ] **Wed, 2027-06-02:** LC: 1547. Min Cost Cut Stick | CF 1650D Twist the Permutation [1600]
+- [ ] **Thu, 2027-06-03:** LC: 1696. Jump Game VI | CF 1679B Stone Age Problem [1600]
+- [ ] **Fri, 2027-06-04:** LC: 1937. Max Points with Cost | CF 1703E Mirror Grid [1600]
+- [ ] **Sat, 2027-06-05:** Mock: 1E+1M+1H in 75 min | SysDesign: URL Shortener | LC: 1964. Find Longest Valid Obstacle | CF 1726B Mainak Sequence [1600] | ↺ Redo LC 124 BT Max Path Sum (under 10 min)
+- [ ] **Sun, 2027-06-06:** LC: 1406. Stone Game III | C++ Sys: project setup + CMake | C++ Sys: core data structures | Quant: Monte Carlo simulation
+- [ ] **Mon, 2027-06-07:** LC: 1140. Stone Game II | CF 1742E Scuza [1600]
+- [ ] **Tue, 2027-06-08:** LC: 877. Stone Game | CF 1249C2 Good Numbers [1600]
+- [ ] **Wed, 2027-06-09:** LC: 327. Count of Range Sum | CF 1312D Count the Arrays [1600]
+- [ ] **Thu, 2027-06-10:** LC: 493. Reverse Pairs | CF 1370D Odd-Even Subseq [1600]
+- [ ] **Fri, 2027-06-11:** LC: 85. Maximal Rectangle | CF 1418C Mortal Kombat Tower [1600]
+- [ ] **Sat, 2027-06-12:** Mock: 1E+1M+1H in 75 min | SysDesign: Rate Limiter | LC: 1482. Min Days m Bouquets | CF 1462E1 Close Tuples [1600] | ↺ Redo LC 297 Serialize/Deserialize BT
+
+## 📅 Phase 8: Summer Grind #2
+- [ ] **Sun, 2027-06-13:** Review: redo 2 hardest | LC: 1793. Max Score Good Subarray | C++ Sys: network layer / IO | C++ Sys: protocol implementation | Weekly reflection
+- [ ] **Mon, 2027-06-14:** LC: 2009. Min Ops Array Continuous | LC: 2328. Increasing Paths in Grid | LC: 2035. Partition Array Two Arrays | LC: 1944. Visible People in Queue | CF 1288C Two Arrays [1700] | Quant: Black-Scholes intuition
+- [ ] **Tue, 2027-06-15:** LC: 2071. Max Running Time N Computers | C++ Sys: concurrency / threading | C++ Sys: event loop / async | C++ Sys: serialization layer | C++ Sys: testing framework
+- [ ] **Wed, 2027-06-16:** LC: 1691. Max Height Stacking Cuboids | LC: 1510. Stone Game IV | LC: 1770. Max Score Multiply Ops | SysDesign: Consistent Hashing | CF 1324E Sleeping Schedule [1700] | Quant: Greeks intuition
+- [ ] **Thu, 2027-06-17:** LC: 1799. Maximize Score After N Ops | C++ Sys: integration tests | C++ Sys: benchmarking suite | C++ Sys: optimization pass #1 | C++ Sys: optimization pass #2 (cache-friendly)
+- [ ] **Fri, 2027-06-18:** LC: 774. Min Max Distance Gas Station | LC: 1425. Constrained Subseq Sum | Quant: market microstructure | Probability: Bayes' theorem (3 problems) | Probability: conditional probability | CF 1335E2 Three Blocks Palindrome [1700]
+- [ ] **Sat, 2027-06-19:** Virtual Contest: Div 1+2 C++ | Upsolve D/E | LC: 146. LRU Cache ↺ (under 5min) | LC: 355. Design Twitter ↺ | ↺ Redo LC 84 Largest Rectangle Histogram | ↺ Redo LC 72 Edit Distance (write recurrence from memory) | C++ Sys: memory profiling + leak detection
+- [ ] **Sun, 2027-06-20:** Review: redo 2 hardest | LC: 380. Insert Delete GetRandom ↺ | C++ Sys: lock-free optimization | C++ Sys: documentation | Weekly reflection
+- [ ] **Mon, 2027-06-21:** LC: 460. LFU Cache ↺ | LC: 10. Regex Matching ↺ | LC: 329. Longest Increasing Path ↺ | LC: 297. Serialize/Deserialize ↺ | CF 1343E Weights Distributing [1700] | Probability: expected value calculations
+- [ ] **Tue, 2027-06-22:** LC: 312. Burst Balloons ↺ | C++ Sys: demo + visualization | C++ Sys: deploy + README | C++ Sys: blog post (architecture deep dive) | C++ Sys: SYSTEMS PROJECT DONE ✅
+- [ ] **Wed, 2027-06-23:** LC: 115. Distinct Subsequences ↺ | LC: 218. Skyline Problem ↺ | LC: 315. Count Smaller ↺ | SysDesign: Key-Value Store | CF 1369D TediousLee [1700] | Probability: geometric & negative binomial
+- [ ] **Thu, 2027-06-24:** LC: 887. Super Egg Drop ↺ | C++ Sys: choose project (trading sim / DB engine / distributed KV) | C++ Sys: architecture design doc | C++ Sys: project setup + CMake | C++ Sys: core data structures
+- [ ] **Fri, 2027-06-25:** LC: 1. Two Sum | LC: 217. Contains Duplicate | Brainteaser: 'Heard on the Street' chapter | Brainteaser: classic quant puzzles (5) | Brainteaser: Fermi estimation | CF 1396B Stoned Game [1700]
+- [ ] **Sat, 2027-06-26:** Virtual Contest: Div 1+2 C++ | Upsolve D/E | LC: 242. Valid Anagram | LC: 49. Group Anagrams | ↺ Redo LC 4 Median of Two Sorted Arrays | ↺ Redo LC 146 LRU Cache (under 8 min) | C++ Sys: network layer / IO
+- [ ] **Sun, 2027-06-27:** Review: redo 2 hardest | LC: 347. Top K Frequent Elements | C++ Sys: protocol implementation | C++ Sys: concurrency / threading | Weekly reflection
+- [ ] **Mon, 2027-06-28:** LC: 238. Product of Array Except Self | LC: 36. Valid Sudoku | LC: 128. Longest Consecutive Sequence | LC: 125. Valid Palindrome | CF 1436C Binary Search (comb) [1700] | Brainteaser: combinatorics puzzles
+- [ ] **Tue, 2027-06-29:** LC: 15. 3Sum | C++ Sys: event loop / async | C++ Sys: serialization layer | C++ Sys: testing framework | C++ Sys: integration tests
+- [ ] **Wed, 2027-06-30:** LC: 11. Container With Most Water | LC: 167. Two Sum II | LC: 42. Trapping Rain Water | SysDesign: Unique ID Generator | CF 1461D Divide and Summarize [1700] | Mental math: 2-digit × 2-digit speed drills
+- [ ] **Thu, 2027-07-01:** LC: 121. Best Time to Buy and Sell Stock | C++ Sys: benchmarking suite | C++ Sys: optimization pass #1 | C++ Sys: optimization pass #2 (cache-friendly) | C++ Sys: memory profiling + leak detection
+- [ ] **Fri, 2027-07-02:** LC: 3. Longest Substring Without Repeating | LC: 424. Longest Repeating Character Replacement | Mental math: fraction/decimal conversion | Mental math: estimate sqrt, logs | Probability: Markov chains intro | CF 1486C2 Guessing the Greatest [1700]
+- [ ] **Sat, 2027-07-03:** Virtual Contest: Div 1+2 C++ | Upsolve D/E | LC: 567. Permutation in String | LC: 76. Minimum Window Substring | ↺ Redo LC 312 Burst Balloons (derive DP state) | ↺ Redo LC 239 Sliding Window Maximum | C++ Sys: lock-free optimization
+- [ ] **Sun, 2027-07-04:** Review: redo 2 hardest | LC: 20. Valid Parentheses | C++ Sys: documentation | C++ Sys: demo + visualization | Weekly reflection
+- [ ] **Mon, 2027-07-05:** LC: 155. Min Stack | LC: 150. Evaluate Reverse Polish Notation | LC: 22. Generate Parentheses | LC: 739. Daily Temperatures | CF 1498C Planar Reflections [1700] | Probability: random walks & gambler's ruin
+- [ ] **Tue, 2027-07-06:** LC: 853. Car Fleet | C++ Sys: deploy + README | C++ Sys: blog post (architecture deep dive) | C++ Sys: SYSTEMS PROJECT DONE ✅ | C++ Sys: choose project (trading sim / DB engine / distributed KV)
+- [ ] **Wed, 2027-07-07:** LC: 84. Largest Rectangle in Histogram | LC: 704. Binary Search | LC: 33. Search in Rotated Sorted Array | SysDesign: News Feed | CF 1534D Lost Arithmetic Progression [1700] | Probability: coupon collector
+- [ ] **Thu, 2027-07-08:** LC: 153. Find Min Rotated Sorted | C++ Sys: architecture design doc | C++ Sys: project setup + CMake | C++ Sys: core data structures | C++ Sys: network layer / IO
+- [ ] **Fri, 2027-07-09:** LC: 875. Koko Eating Bananas | LC: 74. Search 2D Matrix | Probability: birthday paradox variants | EV: optimal stopping problems | EV: Kelly criterion basics | CF 1559D2 Mocha and Diana [1700]
+- [ ] **Sat, 2027-07-10:** Virtual Contest: Div 1+2 C++ | Upsolve D/E | LC: 981. Time Based Key-Value Store | LC: 4. Median of Two Sorted Arrays | ↺ Redo LC 218 Skyline Problem | ↺ Re-derive Bayes' theorem from scratch + 2 problems | C++ Sys: protocol implementation
+- [ ] **Sun, 2027-07-11:** Review: redo 2 hardest | LC: 206. Reverse Linked List | C++ Sys: concurrency / threading | C++ Sys: event loop / async | Weekly reflection
+- [ ] **Mon, 2027-07-12:** LC: 21. Merge Two Sorted Lists | LC: 141. Linked List Cycle | LC: 143. Reorder List | LC: 19. Remove Nth From End | CF 1579E2 Array Optimization [1700] | EV: game theory — Nash equilibrium
+- [ ] **Tue, 2027-07-13:** LC: 2. Add Two Numbers | C++ Sys: serialization layer | C++ Sys: testing framework | C++ Sys: integration tests | C++ Sys: benchmarking suite
+- [ ] **Wed, 2027-07-14:** LC: 138. Copy List Random Pointer | LC: 146. LRU Cache | LC: 23. Merge K Sorted Lists | SysDesign: Chat System | CF 1606D Red String is Beautiful [1700] | EV: auction theory basics
+- [ ] **Thu, 2027-07-15:** LC: 25. Reverse Nodes K-Group | C++ Sys: optimization pass #1 | C++ Sys: optimization pass #2 (cache-friendly) | C++ Sys: memory profiling + leak detection | C++ Sys: lock-free optimization
+- [ ] **Fri, 2027-07-16:** LC: 226. Invert Binary Tree | LC: 104. Maximum Depth | Brainteaser: knights & knaves | Brainteaser: weighing puzzles | Brainteaser: hat puzzles | CF 1613D MEX Queries [1700]
+- [ ] **Sat, 2027-07-17:** Virtual Contest: Div 1+2 C++ | Upsolve D/E | LC: 100. Same Tree | LC: 572. Subtree of Another | ↺ Re-derive expected value formulas + 3 problems | ↺ Re-derive Markov chain stationary distribution | C++ Sys: documentation
+- [ ] **Sun, 2027-07-18:** Review: redo 2 hardest | LC: 110. Balanced Binary Tree | C++ Sys: demo + visualization | C++ Sys: deploy + README | Weekly reflection
+- [ ] **Mon, 2027-07-19:** LC: 102. Level Order Traversal | LC: 98. Validate BST | LC: 230. Kth Smallest BST | LC: 105. Build Tree Preorder/Inorder | CF 1288C Two Arrays [1700] | Brainteaser: infinity puzzles
+- [ ] **Tue, 2027-07-20:** LC: 199. Right Side View | C++ Sys: blog post (architecture deep dive) | C++ Sys: SYSTEMS PROJECT DONE ✅ | C++ Sys: choose project (trading sim / DB engine / distributed KV) | C++ Sys: architecture design doc
+- [ ] **Wed, 2027-07-21:** LC: 1448. Count Good Nodes | LC: 235. LCA of BST | LC: 208. Implement Trie | SysDesign: Search Autocomplete | CF 1324E Sleeping Schedule [1700] | C++ systems: cache lines & memory layout
+- [ ] **Thu, 2027-07-22:** LC: 211. Design Add Search Words | C++ Sys: project setup + CMake | C++ Sys: core data structures | C++ Sys: network layer / IO | C++ Sys: protocol implementation
+- [ ] **Fri, 2027-07-23:** LC: 124. Binary Tree Max Path Sum | LC: 297. Serialize/Deserialize BT | C++ systems: move semantics & perfect forwarding | C++ systems: lock-free data structures | C++ systems: template metaprogramming | CF 1335E2 Three Blocks Palindrome [1700]
+- [ ] **Sat, 2027-07-24:** Virtual Contest: Div 1+2 C++ | Upsolve D/E | LC: 212. Word Search II | LC: 200. Number of Islands | ↺ Review C++ memory layout notes + write from memory | ↺ Review segment tree implementation — code from scratch | C++ Sys: concurrency / threading
+- [ ] **Sun, 2027-07-25:** Review: redo 2 hardest | LC: 133. Clone Graph | C++ Sys: event loop / async | C++ Sys: serialization layer | Weekly reflection
+- [ ] **Mon, 2027-07-26:** LC: 695. Max Area of Island | LC: 417. Pacific Atlantic Water Flow | LC: 207. Course Schedule | LC: 210. Course Schedule II | CF 1343E Weights Distributing [1700] | C++ systems: smart pointers deep dive
+- [ ] **Tue, 2027-07-27:** LC: 994. Rotting Oranges | C++ Sys: testing framework | C++ Sys: integration tests | C++ Sys: benchmarking suite | C++ Sys: optimization pass #1
+- [ ] **Wed, 2027-07-28:** LC: 130. Surrounded Regions | LC: 684. Redundant Connection | LC: 323. Connected Components | SysDesign: Notification System | CF 1369D TediousLee [1700] | C++ systems: constexpr & compile-time
+- [ ] **Thu, 2027-07-29:** LC: 127. Word Ladder | C++ Sys: optimization pass #2 (cache-friendly) | C++ Sys: memory profiling + leak detection | C++ Sys: lock-free optimization | C++ Sys: documentation
+- [ ] **Fri, 2027-07-30:** LC: 269. Alien Dictionary | LC: 778. Swim in Rising Water | C++ systems: SIMD/vectorization | C++ systems: profiling & benchmarking | Quant: Monte Carlo simulation | CF 1396B Stoned Game [1700]
+- [ ] **Sat, 2027-07-31:** Virtual Contest: Div 1+2 C++ | Upsolve D/E | LC: 70. Climbing Stairs | LC: 746. Min Cost Climbing | ↺ Review Dijkstra + Bellman-Ford — code both from scratch | ↺ Review Union-Find — code from scratch with path compression | C++ Sys: demo + visualization
+- [ ] **Sun, 2027-08-01:** Review: redo 2 hardest | LC: 198. House Robber | C++ Sys: deploy + README | C++ Sys: blog post (architecture deep dive) | Weekly reflection
+- [ ] **Mon, 2027-08-02:** LC: 213. House Robber II | LC: 5. Longest Palindromic Substring | LC: 647. Palindromic Substrings | LC: 91. Decode Ways | CF 1436C Binary Search (comb) [1700] | Quant: Black-Scholes intuition
+- [ ] **Tue, 2027-08-03:** LC: 322. Coin Change | C++ Sys: SYSTEMS PROJECT DONE ✅ | C++ Sys: choose project (trading sim / DB engine / distributed KV) | C++ Sys: architecture design doc | C++ Sys: project setup + CMake
+- [ ] **Wed, 2027-08-04:** LC: 152. Max Product Subarray | LC: 139. Word Break | LC: 300. LIS | SysDesign: Web Crawler | CF 1461D Divide and Summarize [1700] | Quant: Greeks intuition
+- [ ] **Thu, 2027-08-05:** LC: 416. Partition Equal Subset Sum | C++ Sys: core data structures | C++ Sys: network layer / IO | C++ Sys: protocol implementation | C++ Sys: concurrency / threading
+- [ ] **Fri, 2027-08-06:** LC: 62. Unique Paths | LC: 1143. Longest Common Subsequence | Quant: market microstructure | Probability: Bayes' theorem (3 problems) | Probability: conditional probability | CF 1486C2 Guessing the Greatest [1700]
+- [ ] **Sat, 2027-08-07:** Virtual Contest: Div 1+2 C++ | Upsolve D/E | LC: 309. Best Time Cooldown | LC: 494. Target Sum | ↺ Review BFS/DFS templates — code both in C++ from scratch | ↺ Review binary search template — 3 variants from memory | C++ Sys: event loop / async
+- [ ] **Sun, 2027-08-08:** Review: redo 2 hardest | LC: 97. Interleaving String | C++ Sys: serialization layer | C++ Sys: testing framework | Weekly reflection
+- [ ] **Mon, 2027-08-09:** LC: 518. Coin Change II | LC: 72. Edit Distance | LC: 312. Burst Balloons | LC: 10. Regular Expression Matching | CF 1498C Planar Reflections [1700] | Probability: expected value calculations
+
+## 📅 Phase 9: Junior Fall — RECRUITING
+- [ ] **Tue, 2027-08-10:** LC: 329. Longest Increasing Path | CF 1197D Yet Another Subarray Problem [1800]
+- [ ] **Wed, 2027-08-11:** LC: 115. Distinct Subsequences | CF 1238D AB-string [1800]
+- [ ] **Thu, 2027-08-12:** LC: 78. Subsets | CF 1278D Segment Tree [1800]
+- [ ] **Fri, 2027-08-13:** LC: 39. Combination Sum | CF 1312E Array Shrinking [1800]
+- [ ] **Sat, 2027-08-14:** Mock: full interview sim (75 min) | SysDesign: Nearby Friends | LC: 46. Permutations | CF 1336A Linova and Kingdom [1800] | ↺ Redo your 3 hardest LC problems ever (check your notes)
+- [ ] **Sun, 2027-08-15:** LC: 79. Word Search | Probability: geometric & negative binomial | Brainteaser: 'Heard on the Street' chapter | Mock with Pramp/Interviewing.io | Weekly review + debrief
+- [ ] **Mon, 2027-08-16:** LC: 51. N-Queens | CF 1372D Omkar and Circle [1800]
+- [ ] **Tue, 2027-08-17:** LC: 17. Letter Combinations | CF 1416B Make Them Equal [1800]
+- [ ] **Wed, 2027-08-18:** LC: 131. Palindrome Partitioning | CF 1436D Bandit in a City [1800]
+- [ ] **Thu, 2027-08-19:** LC: 40. Combination Sum II | CF 1472G Moving to the Capital [1800]
+- [ ] **Fri, 2027-08-20:** LC: 53. Maximum Subarray | CF 1495B Let's Go Hiking [1800]
+- [ ] **Sat, 2027-08-21:** Mock: full interview sim (75 min) | SysDesign: Google Maps | LC: 55. Jump Game | CF 1534E Lost Array [1800] | ↺ Redo 2 hardest CF problems from past month
+- [ ] **Sun, 2027-08-22:** LC: 45. Jump Game II | Brainteaser: classic quant puzzles (5) | Brainteaser: Fermi estimation | Mock: whiteboard (no IDE) | Weekly review + debrief
+- [ ] **Mon, 2027-08-23:** LC: 134. Gas Station | CF 1543D2 RPD and Rap Sheet [1800]
+- [ ] **Tue, 2027-08-24:** LC: 846. Hand of Straights | CF 1575L Longest Y [1800]
+- [ ] **Wed, 2027-08-25:** LC: 763. Partition Labels | CF 1606E Arena [1800]
+- [ ] **Thu, 2027-08-26:** LC: 678. Valid Parenthesis String | CF 1635E Cars [1800]
+- [ ] **Fri, 2027-08-27:** LC: 621. Task Scheduler | CF 1197D Yet Another Subarray Problem [1800]
+- [ ] **Sat, 2027-08-28:** Mock: full interview sim (75 min) | SysDesign: Uber | LC: 56. Merge Intervals | CF 1238D AB-string [1800] | ↺ Review all DP patterns: knapsack, LIS, interval, bitmask
+- [ ] **Sun, 2027-08-29:** LC: 435. Non-overlapping Intervals | Brainteaser: combinatorics puzzles | Mental math: 2-digit × 2-digit speed drills | Negotiate: offer strategy | Weekly review + debrief
+- [ ] **Mon, 2027-08-30:** LC: 57. Insert Interval | CF 1278D Segment Tree [1800]
+- [ ] **Tue, 2027-08-31:** LC: 253. Meeting Rooms II | CF 1312E Array Shrinking [1800]
+- [ ] **Wed, 2027-09-01:** LC: 136. Single Number | CF 1336A Linova and Kingdom [1800]
+- [ ] **Thu, 2027-09-02:** LC: 191. Number of 1 Bits | CF 1372D Omkar and Circle [1800]
+- [ ] **Fri, 2027-09-03:** LC: 338. Counting Bits | CF 1416B Make Them Equal [1800]
+- [ ] **Sat, 2027-09-04:** Mock: full interview sim (75 min) | SysDesign: Google Docs | LC: 268. Missing Number | CF 1436D Bandit in a City [1800] | ↺ Re-solve 3 company-tagged problems you previously solved
+- [ ] **Sun, 2027-09-05:** LC: 48. Rotate Image | Mental math: fraction/decimal conversion | Mental math: estimate sqrt, logs | Resume: update with latest | Weekly review + debrief
+- [ ] **Mon, 2027-09-06:** LC: 54. Spiral Matrix | CF 1472G Moving to the Capital [1800]
+- [ ] **Tue, 2027-09-07:** LC: 73. Set Matrix Zeroes | CF 1495B Let's Go Hiking [1800]
+- [ ] **Wed, 2027-09-08:** LC: 50. Pow(x,n) | CF 1534E Lost Array [1800]
+- [ ] **Thu, 2027-09-09:** LC: 43. Multiply Strings | CF 1543D2 RPD and Rap Sheet [1800]
+- [ ] **Fri, 2027-09-10:** LC: 295. Find Median Data Stream | CF 1575L Longest Y [1800]
+- [ ] **Sat, 2027-09-11:** Mock: full interview sim (75 min) | SysDesign: YouTube | LC: 355. Design Twitter | CF 1606E Arena [1800] | ↺ Review system design: pick random topic, whiteboard 15 min
+- [ ] **Sun, 2027-09-12:** LC: 973. K Closest Points | Probability: Markov chains intro | Probability: random walks & gambler's ruin | Portfolio: website update | Weekly review + debrief
+- [ ] **Mon, 2027-09-13:** LC: 703. Kth Largest Element | CF 1635E Cars [1800]
+- [ ] **Tue, 2027-09-14:** LC: 1046. Last Stone Weight | CF 1197D Yet Another Subarray Problem [1800]
+- [ ] **Wed, 2027-09-15:** LC: 380. Insert Delete GetRandom | CF 1238D AB-string [1800]
+- [ ] **Thu, 2027-09-16:** LC: 460. LFU Cache | CF 1278D Segment Tree [1800]
+- [ ] **Fri, 2027-09-17:** LC: 895. Max Frequency Stack | CF 1312E Array Shrinking [1800]
+- [ ] **Sat, 2027-09-18:** Mock: full interview sim (75 min) | SysDesign: Zoom | LC: 843. Guess the Word | CF 1336A Linova and Kingdom [1800] | ↺ Review STAR stories — practice out loud (timer: 2 min each)
+- [ ] **Sun, 2027-09-19:** LC: 1048. Longest String Chain | Probability: coupon collector | Probability: birthday paradox variants | Apps: research 5 target companies | Weekly review + debrief
+- [ ] **Mon, 2027-09-20:** LC: 1293. Shortest Path Obstacles | CF 1372D Omkar and Circle [1800]
+- [ ] **Tue, 2027-09-21:** LC: 394. Decode String | CF 1416B Make Them Equal [1800]
+- [ ] **Wed, 2027-09-22:** LC: 314. Vertical Order Traversal | CF 1436D Bandit in a City [1800]
+- [ ] **Thu, 2027-09-23:** LC: 1249. Min Remove Valid Parens | CF 1472G Moving to the Capital [1800]
+- [ ] **Fri, 2027-09-24:** LC: 680. Valid Palindrome II | CF 1495B Let's Go Hiking [1800]
+- [ ] **Sat, 2027-09-25:** Mock: full interview sim (75 min) | SysDesign: Twitter | LC: 227. Basic Calculator II | CF 1534E Lost Array [1800] | ↺ Redo LC 315 Count Smaller After Self
+- [ ] **Sun, 2027-09-26:** LC: 937. Reorder Data in Log Files | EV: optimal stopping problems | EV: Kelly criterion basics | Apps: tailor resume FAANG | Weekly review + debrief
+- [ ] **Mon, 2027-09-27:** LC: 1268. Search Suggestions | CF 1543D2 RPD and Rap Sheet [1800]
+- [ ] **Tue, 2027-09-28:** LC: 472. Concatenated Words | CF 1575L Longest Y [1800]
+- [ ] **Wed, 2027-09-29:** LC: 1192. Critical Connections | CF 1606E Arena [1800]
+- [ ] **Thu, 2027-09-30:** LC: 41. First Missing Positive | CF 1635E Cars [1800]
+- [ ] **Fri, 2027-10-01:** LC: 218. The Skyline Problem | CF 1197D Yet Another Subarray Problem [1800]
+- [ ] **Sat, 2027-10-02:** Mock: full interview sim (75 min) | SysDesign: Netflix | LC: 315. Count Smaller After Self | CF 1238D AB-string [1800] | ↺ Redo LC 887 Super Egg Drop
+- [ ] **Sun, 2027-10-03:** LC: 887. Super Egg Drop | EV: game theory — Nash equilibrium | EV: auction theory basics | Apps: tailor resume quant | Weekly review + debrief
+- [ ] **Mon, 2027-10-04:** LC: 470. Rand10 Using Rand7 | CF 1278D Segment Tree [1800]
+- [ ] **Tue, 2027-10-05:** LC: 239. Sliding Window Maximum | CF 1312E Array Shrinking [1800]
+- [ ] **Wed, 2027-10-06:** LC: 1235. Max Profit Job Scheduling | CF 1336A Linova and Kingdom [1800]
+- [ ] **Thu, 2027-10-07:** LC: 410. Split Array Largest Sum | CF 1372D Omkar and Circle [1800]
+- [ ] **Fri, 2027-10-08:** LC: 862. Shortest Subarray Sum K | CF 1416B Make Them Equal [1800]
+- [ ] **Sat, 2027-10-09:** Mock: full interview sim (75 min) | SysDesign: WhatsApp | LC: 1383. Max Performance Team | CF 1436D Bandit in a City [1800] | ↺ Review probability: re-derive coupon collector EV
+- [ ] **Sun, 2027-10-10:** LC: 403. Frog Jump | Brainteaser: knights & knaves | Brainteaser: weighing puzzles | Apps: apply to 5 companies | Weekly review + debrief
+- [ ] **Mon, 2027-10-11:** LC: 76. Min Window Substring ↺ | CF 1472G Moving to the Capital [1800]
+- [ ] **Tue, 2027-10-12:** LC: 124. BT Max Path Sum ↺ | CF 1495B Let's Go Hiking [1800]
+- [ ] **Wed, 2027-10-13:** LC: 23. Merge K Lists ↺ | CF 1534E Lost Array [1800]
+- [ ] **Thu, 2027-10-14:** LC: 42. Trapping Rain Water ↺ | CF 1543D2 RPD and Rap Sheet [1800]
+- [ ] **Fri, 2027-10-15:** LC: 84. Largest Rectangle ↺ | CF 1575L Longest Y [1800]
+- [ ] **Sat, 2027-10-16:** Mock: full interview sim (75 min) | SysDesign: Instagram | LC: 72. Edit Distance ↺ | CF 1606E Arena [1800] | ↺ Speed round: 5 LC easys in 15 min (pattern recognition)
+- [ ] **Sun, 2027-10-17:** LC: 4. Median Two Arrays ↺ | Brainteaser: hat puzzles | Brainteaser: infinity puzzles | Apps: apply to 5 more | Weekly review + debrief
+- [ ] **Mon, 2027-10-18:** LC: 1335. Min Difficulty Job Schedule | CF 1635E Cars [1800]
+- [ ] **Tue, 2027-10-19:** LC: 1547. Min Cost Cut Stick | CF 1197D Yet Another Subarray Problem [1800]
+- [ ] **Wed, 2027-10-20:** LC: 1696. Jump Game VI | CF 1238D AB-string [1800]
+- [ ] **Thu, 2027-10-21:** LC: 1937. Max Points with Cost | CF 1278D Segment Tree [1800]
+- [ ] **Fri, 2027-10-22:** LC: 1964. Find Longest Valid Obstacle | CF 1312E Array Shrinking [1800]
+- [ ] **Sat, 2027-10-23:** Mock: full interview sim (75 min) | SysDesign: Dropbox | LC: 1406. Stone Game III | CF 1336A Linova and Kingdom [1800] | ↺ Speed round: 3 LC mediums in 30 min
+- [ ] **Sun, 2027-10-24:** LC: 1140. Stone Game II | C++ systems: cache lines & memory layout | C++ systems: move semantics & perfect forwarding | Apps: LinkedIn outreach (5) | Weekly review + debrief
+- [ ] **Mon, 2027-10-25:** LC: 877. Stone Game | CF 1372D Omkar and Circle [1800]
+- [ ] **Tue, 2027-10-26:** LC: 327. Count of Range Sum | CF 1416B Make Them Equal [1800]
+- [ ] **Wed, 2027-10-27:** LC: 493. Reverse Pairs | CF 1436D Bandit in a City [1800]
+- [ ] **Thu, 2027-10-28:** LC: 85. Maximal Rectangle | CF 1472G Moving to the Capital [1800]
+- [ ] **Fri, 2027-10-29:** LC: 1482. Min Days m Bouquets | CF 1495B Let's Go Hiking [1800]
+- [ ] **Sat, 2027-10-30:** Mock: full interview sim (75 min) | SysDesign: Slack | LC: 1793. Max Score Good Subarray | CF 1534E Lost Array [1800] | ↺ Redo LC 76 Min Window Substring (under 10 min)
+- [ ] **Sun, 2027-10-31:** LC: 2009. Min Ops Array Continuous | C++ systems: lock-free data structures | C++ systems: template metaprogramming | Apps: follow up all | Weekly review + debrief
+- [ ] **Mon, 2027-11-01:** LC: 2328. Increasing Paths in Grid | CF 1543D2 RPD and Rap Sheet [1800]
+- [ ] **Tue, 2027-11-02:** LC: 2035. Partition Array Two Arrays | CF 1575L Longest Y [1800]
+- [ ] **Wed, 2027-11-03:** LC: 1944. Visible People in Queue | CF 1606E Arena [1800]
+- [ ] **Thu, 2027-11-04:** LC: 2071. Max Running Time N Computers | CF 1635E Cars [1800]
+- [ ] **Fri, 2027-11-05:** LC: 1691. Max Height Stacking Cuboids | CF 1197D Yet Another Subarray Problem [1800]
+- [ ] **Sat, 2027-11-06:** Mock: full interview sim (75 min) | SysDesign: Spotify | LC: 1510. Stone Game IV | CF 1238D AB-string [1800] | ↺ Redo LC 42 Trapping Rain Water (under 8 min)
+- [ ] **Sun, 2027-11-07:** LC: 1770. Max Score Multiply Ops | C++ systems: smart pointers deep dive | C++ systems: constexpr & compile-time | Behavioral: STAR #1 (tech challenge) | Weekly review + debrief
+- [ ] **Mon, 2027-11-08:** LC: 1799. Maximize Score After N Ops | CF 1278D Segment Tree [1800]
+- [ ] **Tue, 2027-11-09:** LC: 774. Min Max Distance Gas Station | CF 1312E Array Shrinking [1800]
+- [ ] **Wed, 2027-11-10:** LC: 1425. Constrained Subseq Sum | CF 1336A Linova and Kingdom [1800]
+- [ ] **Thu, 2027-11-11:** LC: 146. LRU Cache ↺ (under 5min) | CF 1372D Omkar and Circle [1800]
+- [ ] **Fri, 2027-11-12:** LC: 355. Design Twitter ↺ | CF 1416B Make Them Equal [1800]
+- [ ] **Sat, 2027-11-13:** Mock: full interview sim (75 min) | SysDesign: TikTok | LC: 380. Insert Delete GetRandom ↺ | CF 1436D Bandit in a City [1800] | ↺ Redo LC 23 Merge K Sorted Lists (under 12 min)
+- [ ] **Sun, 2027-11-14:** LC: 460. LFU Cache ↺ | C++ systems: SIMD/vectorization | C++ systems: profiling & benchmarking | Behavioral: STAR #2 (teamwork) | Weekly review + debrief
+- [ ] **Mon, 2027-11-15:** LC: 10. Regex Matching ↺ | CF 1472G Moving to the Capital [1800]
+- [ ] **Tue, 2027-11-16:** LC: 329. Longest Increasing Path ↺ | CF 1495B Let's Go Hiking [1800]
+- [ ] **Wed, 2027-11-17:** LC: 297. Serialize/Deserialize ↺ | CF 1534E Lost Array [1800]
+- [ ] **Thu, 2027-11-18:** LC: 312. Burst Balloons ↺ | CF 1543D2 RPD and Rap Sheet [1800]
+- [ ] **Fri, 2027-11-19:** LC: 115. Distinct Subsequences ↺ | CF 1575L Longest Y [1800]
+- [ ] **Sat, 2027-11-20:** Mock: full interview sim (75 min) | SysDesign: Airbnb | LC: 218. Skyline Problem ↺ | CF 1606E Arena [1800] | ↺ Redo LC 124 BT Max Path Sum (under 10 min)
+- [ ] **Sun, 2027-11-21:** LC: 315. Count Smaller ↺ | Quant: Monte Carlo simulation | Quant: Black-Scholes intuition | Behavioral: STAR #3 (leadership) | Weekly review + debrief
+- [ ] **Mon, 2027-11-22:** LC: 887. Super Egg Drop ↺ | CF 1635E Cars [1800]
+- [ ] **Tue, 2027-11-23:** LC: 1. Two Sum | CF 1197D Yet Another Subarray Problem [1800]
+- [ ] **Wed, 2027-11-24:** LC: 217. Contains Duplicate | CF 1238D AB-string [1800]
+- [ ] **Thu, 2027-11-25:** LC: 242. Valid Anagram | CF 1278D Segment Tree [1800]
+- [ ] **Fri, 2027-11-26:** LC: 49. Group Anagrams | CF 1312E Array Shrinking [1800]
+- [ ] **Sat, 2027-11-27:** Mock: full interview sim (75 min) | SysDesign: Stock Exchange Matching Engine | LC: 347. Top K Frequent Elements | CF 1336A Linova and Kingdom [1800] | ↺ Redo LC 297 Serialize/Deserialize BT
+- [ ] **Sun, 2027-11-28:** LC: 238. Product of Array Except Self | Quant: Greeks intuition | Quant: market microstructure | Behavioral: STAR #4 (failure) | Weekly review + debrief
+- [ ] **Mon, 2027-11-29:** LC: 36. Valid Sudoku | CF 1372D Omkar and Circle [1800]
+- [ ] **Tue, 2027-11-30:** LC: 128. Longest Consecutive Sequence | CF 1416B Make Them Equal [1800]
+- [ ] **Wed, 2027-12-01:** LC: 125. Valid Palindrome | CF 1436D Bandit in a City [1800]
+- [ ] **Thu, 2027-12-02:** LC: 15. 3Sum | CF 1472G Moving to the Capital [1800]
+- [ ] **Fri, 2027-12-03:** LC: 11. Container With Most Water | CF 1495B Let's Go Hiking [1800]
+- [ ] **Sat, 2027-12-04:** Mock: full interview sim (75 min) | SysDesign: Distributed Cache | LC: 167. Two Sum II | CF 1534E Lost Array [1800] | ↺ Redo LC 84 Largest Rectangle Histogram
+- [ ] **Sun, 2027-12-05:** LC: 42. Trapping Rain Water | Probability: Bayes' theorem (3 problems) | Probability: conditional probability | Behavioral: STAR #5 (impact) | Weekly review + debrief
+- [ ] **Mon, 2027-12-06:** LC: 121. Best Time to Buy and Sell Stock | CF 1543D2 RPD and Rap Sheet [1800]
+- [ ] **Tue, 2027-12-07:** LC: 3. Longest Substring Without Repeating | CF 1575L Longest Y [1800]
+- [ ] **Wed, 2027-12-08:** LC: 424. Longest Repeating Character Replacement | CF 1606E Arena [1800]
+- [ ] **Thu, 2027-12-09:** LC: 567. Permutation in String | CF 1635E Cars [1800]
+- [ ] **Fri, 2027-12-10:** LC: 76. Minimum Window Substring | CF 1197D Yet Another Subarray Problem [1800]
+- [ ] **Sat, 2027-12-11:** Mock: full interview sim (75 min) | SysDesign: Message Queue | LC: 20. Valid Parentheses | CF 1238D AB-string [1800] | ↺ Redo LC 72 Edit Distance (write recurrence from memory)
+- [ ] **Sun, 2027-12-12:** LC: 155. Min Stack | Probability: expected value calculations | Probability: geometric & negative binomial | Behavioral: 5-min project pitch | Weekly review + debrief
+- [ ] **Mon, 2027-12-13:** LC: 150. Evaluate Reverse Polish Notation | CF 1278D Segment Tree [1800]
+- [ ] **Tue, 2027-12-14:** LC: 22. Generate Parentheses | CF 1312E Array Shrinking [1800]
+- [ ] **Wed, 2027-12-15:** LC: 739. Daily Temperatures | CF 1336A Linova and Kingdom [1800]
+- [ ] **Thu, 2027-12-16:** LC: 853. Car Fleet | CF 1372D Omkar and Circle [1800]
+- [ ] **Fri, 2027-12-17:** LC: 84. Largest Rectangle in Histogram | CF 1416B Make Them Equal [1800]
+- [ ] **Sat, 2027-12-18:** Mock: full interview sim (75 min) | SysDesign: Payment System | LC: 704. Binary Search | CF 1436D Bandit in a City [1800] | ↺ Redo LC 4 Median of Two Sorted Arrays
+- [ ] **Sun, 2027-12-19:** LC: 33. Search in Rotated Sorted Array | Brainteaser: 'Heard on the Street' chapter | Brainteaser: classic quant puzzles (5) | Behavioral: 'tell me about yourself' | Weekly review + debrief
+- [ ] **Mon, 2027-12-20:** LC: 153. Find Min Rotated Sorted | CF 1472G Moving to the Capital [1800]
+- [ ] **Tue, 2027-12-21:** LC: 875. Koko Eating Bananas | CF 1495B Let's Go Hiking [1800]
+- [ ] **Wed, 2027-12-22:** LC: 74. Search 2D Matrix | CF 1534E Lost Array [1800]
+- [ ] **Thu, 2027-12-23:** LC: 981. Time Based Key-Value Store | CF 1543D2 RPD and Rap Sheet [1800]
+- [ ] **Fri, 2027-12-24:** LC: 4. Median of Two Sorted Arrays | CF 1575L Longest Y [1800]
+- [ ] **Sat, 2027-12-25:** Mock: full interview sim (75 min) | SysDesign: Metrics/Monitoring | LC: 206. Reverse Linked List | CF 1606E Arena [1800] | ↺ Redo LC 146 LRU Cache (under 8 min)
+- [ ] **Sun, 2027-12-26:** LC: 21. Merge Two Sorted Lists | Brainteaser: Fermi estimation | Brainteaser: combinatorics puzzles | Behavioral: 'why this company?' | Weekly review + debrief
+- [ ] **Mon, 2027-12-27:** LC: 141. Linked List Cycle | CF 1635E Cars [1800]
+- [ ] **Tue, 2027-12-28:** LC: 143. Reorder List | CF 1197D Yet Another Subarray Problem [1800]
+- [ ] **Wed, 2027-12-29:** LC: 19. Remove Nth From End | CF 1238D AB-string [1800]
+- [ ] **Thu, 2027-12-30:** LC: 2. Add Two Numbers | CF 1278D Segment Tree [1800]
+- [ ] **Fri, 2027-12-31:** LC: 138. Copy List Random Pointer | CF 1312E Array Shrinking [1800]
+
+## 📅 Phase 10: Junior Spring — Final
+- [ ] **Sat, 2028-01-01:** Mock: 2 hards in 60 min | LC: 146. LRU Cache | CF 1188B Count Pairs [1900] | Mental math: 2-digit × 2-digit speed drills | ↺ Redo LC 312 Burst Balloons (derive DP state) | Mock: 2 mediums 40 min
+- [ ] **Sun, 2028-01-02:** LC: 23. Merge K Sorted Lists | Mental math: fraction/decimal conversion | Mock: 1 hard 45 min | Weekly review
+- [ ] **Mon, 2028-01-03:** LC: 25. Reverse Nodes K-Group | CF 1209E2 Rotate Columns [1900]
+- [ ] **Tue, 2028-01-04:** LC: 226. Invert Binary Tree | CF 1253E Antenna Coverage [1900]
+- [ ] **Wed, 2028-01-05:** LC: 104. Maximum Depth | CF 1285D Dr. Evil Underscores [1900]
+- [ ] **Thu, 2028-01-06:** LC: 100. Same Tree | CF 1326E Bombs [1900]
+- [ ] **Fri, 2028-01-07:** LC: 572. Subtree of Another | CF 1348E Phoenix and Berries [1900]
+- [ ] **Sat, 2028-01-08:** Mock: 2 hards in 60 min | LC: 110. Balanced Binary Tree | CF 1364D Ehab's Last Corollary [1900] | Mental math: estimate sqrt, logs | ↺ Redo LC 239 Sliding Window Maximum | Mock: 1E+1M+1H 75 min
+- [ ] **Sun, 2028-01-09:** LC: 102. Level Order Traversal | Probability: Markov chains intro | Mock with Pramp/Interviewing.io | Weekly review
+- [ ] **Mon, 2028-01-10:** LC: 98. Validate BST | CF 1408D Searchlights [1900]
+- [ ] **Tue, 2028-01-11:** LC: 230. Kth Smallest BST | CF 1437E Make It Increasing [1900]
+- [ ] **Wed, 2028-01-12:** LC: 105. Build Tree Preorder/Inorder | CF 1476E Pattern Matching [1900]
+- [ ] **Thu, 2028-01-13:** LC: 199. Right Side View | CF 1536D Omkar and Medians [1900]
+- [ ] **Fri, 2028-01-14:** LC: 1448. Count Good Nodes | CF 1560E Polycarp and String Transform [1900]
+- [ ] **Sat, 2028-01-15:** Mock: 2 hards in 60 min | LC: 235. LCA of BST | CF 1583E Moment of Bloom [1900] | Probability: random walks & gambler's ruin | ↺ Redo LC 218 Skyline Problem | Mock: whiteboard (no IDE)
+- [ ] **Sun, 2028-01-16:** LC: 208. Implement Trie | Probability: coupon collector | Negotiate: offer strategy | Weekly review
+- [ ] **Mon, 2028-01-17:** LC: 211. Design Add Search Words | CF 1610F Mashtali [1900]
+- [ ] **Tue, 2028-01-18:** LC: 124. Binary Tree Max Path Sum | CF 1656E Equal Tree Sums [1900]
+- [ ] **Wed, 2028-01-19:** LC: 297. Serialize/Deserialize BT | CF 1188B Count Pairs [1900]
+- [ ] **Thu, 2028-01-20:** LC: 212. Word Search II | CF 1209E2 Rotate Columns [1900]
+- [ ] **Fri, 2028-01-21:** LC: 200. Number of Islands | CF 1253E Antenna Coverage [1900]
+- [ ] **Sat, 2028-01-22:** Mock: 2 hards in 60 min | LC: 133. Clone Graph | CF 1285D Dr. Evil Underscores [1900] | Probability: birthday paradox variants | ↺ Re-derive Bayes' theorem from scratch + 2 problems | Resume: update with latest
+- [ ] **Sun, 2028-01-23:** LC: 695. Max Area of Island | EV: optimal stopping problems | Portfolio: website update | Weekly review
+- [ ] **Mon, 2028-01-24:** LC: 417. Pacific Atlantic Water Flow | CF 1326E Bombs [1900]
+- [ ] **Tue, 2028-01-25:** LC: 207. Course Schedule | CF 1348E Phoenix and Berries [1900]
+- [ ] **Wed, 2028-01-26:** LC: 210. Course Schedule II | CF 1364D Ehab's Last Corollary [1900]
+- [ ] **Thu, 2028-01-27:** LC: 994. Rotting Oranges | CF 1408D Searchlights [1900]
+- [ ] **Fri, 2028-01-28:** LC: 130. Surrounded Regions | CF 1437E Make It Increasing [1900]
+- [ ] **Sat, 2028-01-29:** Mock: 2 hards in 60 min | LC: 684. Redundant Connection | CF 1476E Pattern Matching [1900] | EV: Kelly criterion basics | ↺ Re-derive expected value formulas + 3 problems | Apps: research 5 target companies
+- [ ] **Sun, 2028-01-30:** LC: 323. Connected Components | EV: game theory — Nash equilibrium | Apps: tailor resume FAANG | Weekly review
+- [ ] **Mon, 2028-01-31:** LC: 127. Word Ladder | CF 1536D Omkar and Medians [1900]
+- [ ] **Tue, 2028-02-01:** LC: 269. Alien Dictionary | CF 1560E Polycarp and String Transform [1900]
+- [ ] **Wed, 2028-02-02:** LC: 778. Swim in Rising Water | CF 1583E Moment of Bloom [1900]
+- [ ] **Thu, 2028-02-03:** LC: 70. Climbing Stairs | CF 1610F Mashtali [1900]
+- [ ] **Fri, 2028-02-04:** LC: 746. Min Cost Climbing | CF 1656E Equal Tree Sums [1900]
+- [ ] **Sat, 2028-02-05:** Mock: 2 hards in 60 min | LC: 198. House Robber | CF 1188B Count Pairs [1900] | EV: auction theory basics | ↺ Re-derive Markov chain stationary distribution | Apps: tailor resume quant
+- [ ] **Sun, 2028-02-06:** LC: 213. House Robber II | Brainteaser: knights & knaves | Apps: apply to 5 companies | Weekly review
+- [ ] **Mon, 2028-02-07:** LC: 5. Longest Palindromic Substring | CF 1209E2 Rotate Columns [1900]
+- [ ] **Tue, 2028-02-08:** LC: 647. Palindromic Substrings | CF 1253E Antenna Coverage [1900]
+- [ ] **Wed, 2028-02-09:** LC: 91. Decode Ways | CF 1285D Dr. Evil Underscores [1900]
+- [ ] **Thu, 2028-02-10:** LC: 322. Coin Change | CF 1326E Bombs [1900]
+- [ ] **Fri, 2028-02-11:** LC: 152. Max Product Subarray | CF 1348E Phoenix and Berries [1900]
+- [ ] **Sat, 2028-02-12:** Mock: 2 hards in 60 min | LC: 139. Word Break | CF 1364D Ehab's Last Corollary [1900] | Brainteaser: weighing puzzles | ↺ Review C++ memory layout notes + write from memory | Apps: apply to 5 more
+- [ ] **Sun, 2028-02-13:** LC: 300. LIS | Brainteaser: hat puzzles | Apps: LinkedIn outreach (5) | Weekly review
+- [ ] **Mon, 2028-02-14:** LC: 416. Partition Equal Subset Sum | CF 1408D Searchlights [1900]
+- [ ] **Tue, 2028-02-15:** LC: 62. Unique Paths | CF 1437E Make It Increasing [1900]
+- [ ] **Wed, 2028-02-16:** LC: 1143. Longest Common Subsequence | CF 1476E Pattern Matching [1900]
+- [ ] **Thu, 2028-02-17:** LC: 309. Best Time Cooldown | CF 1536D Omkar and Medians [1900]
+- [ ] **Fri, 2028-02-18:** LC: 494. Target Sum | CF 1560E Polycarp and String Transform [1900]
+- [ ] **Sat, 2028-02-19:** Mock: 2 hards in 60 min | LC: 97. Interleaving String | CF 1583E Moment of Bloom [1900] | Brainteaser: infinity puzzles | ↺ Review segment tree implementation — code from scratch | Apps: follow up all
+- [ ] **Sun, 2028-02-20:** LC: 518. Coin Change II | C++ systems: cache lines & memory layout | Behavioral: STAR #1 (tech challenge) | Weekly review
+- [ ] **Mon, 2028-02-21:** LC: 72. Edit Distance | CF 1610F Mashtali [1900]
+- [ ] **Tue, 2028-02-22:** LC: 312. Burst Balloons | CF 1656E Equal Tree Sums [1900]
+- [ ] **Wed, 2028-02-23:** LC: 10. Regular Expression Matching | CF 1188B Count Pairs [1900]
+- [ ] **Thu, 2028-02-24:** LC: 329. Longest Increasing Path | CF 1209E2 Rotate Columns [1900]
+- [ ] **Fri, 2028-02-25:** LC: 115. Distinct Subsequences | CF 1253E Antenna Coverage [1900]
+- [ ] **Sat, 2028-02-26:** Mock: 2 hards in 60 min | LC: 78. Subsets | CF 1285D Dr. Evil Underscores [1900] | C++ systems: move semantics & perfect forwarding | ↺ Review Dijkstra + Bellman-Ford — code both from scratch | Behavioral: STAR #2 (teamwork)
+- [ ] **Sun, 2028-02-27:** LC: 39. Combination Sum | C++ systems: lock-free data structures | Behavioral: STAR #3 (leadership) | Weekly review
+- [ ] **Mon, 2028-02-28:** LC: 46. Permutations | CF 1326E Bombs [1900]
+- [ ] **Tue, 2028-02-29:** LC: 79. Word Search | CF 1348E Phoenix and Berries [1900]
+- [ ] **Wed, 2028-03-01:** LC: 51. N-Queens | CF 1364D Ehab's Last Corollary [1900]
+- [ ] **Thu, 2028-03-02:** LC: 17. Letter Combinations | CF 1408D Searchlights [1900]
+- [ ] **Fri, 2028-03-03:** LC: 131. Palindrome Partitioning | CF 1437E Make It Increasing [1900]
+- [ ] **Sat, 2028-03-04:** Mock: 2 hards in 60 min | LC: 40. Combination Sum II | CF 1476E Pattern Matching [1900] | C++ systems: template metaprogramming | ↺ Review Union-Find — code from scratch with path compression | Behavioral: STAR #4 (failure)
+- [ ] **Sun, 2028-03-05:** LC: 53. Maximum Subarray | C++ systems: smart pointers deep dive | Behavioral: STAR #5 (impact) | Weekly review
+- [ ] **Mon, 2028-03-06:** LC: 55. Jump Game | CF 1536D Omkar and Medians [1900]
+- [ ] **Tue, 2028-03-07:** LC: 45. Jump Game II | CF 1560E Polycarp and String Transform [1900]
+- [ ] **Wed, 2028-03-08:** LC: 134. Gas Station | CF 1583E Moment of Bloom [1900]
+- [ ] **Thu, 2028-03-09:** LC: 846. Hand of Straights | CF 1610F Mashtali [1900]
+- [ ] **Fri, 2028-03-10:** LC: 763. Partition Labels | CF 1656E Equal Tree Sums [1900]
+- [ ] **Sat, 2028-03-11:** Mock: 2 hards in 60 min | LC: 678. Valid Parenthesis String | CF 1188B Count Pairs [1900] | C++ systems: constexpr & compile-time | ↺ Review BFS/DFS templates — code both in C++ from scratch | Behavioral: 5-min project pitch
+- [ ] **Sun, 2028-03-12:** LC: 621. Task Scheduler | C++ systems: SIMD/vectorization | Behavioral: 'tell me about yourself' | Weekly review
+- [ ] **Mon, 2028-03-13:** LC: 56. Merge Intervals | CF 1209E2 Rotate Columns [1900]
+- [ ] **Tue, 2028-03-14:** LC: 435. Non-overlapping Intervals | CF 1253E Antenna Coverage [1900]
+- [ ] **Wed, 2028-03-15:** LC: 57. Insert Interval | CF 1285D Dr. Evil Underscores [1900]
+- [ ] **Thu, 2028-03-16:** LC: 253. Meeting Rooms II | CF 1326E Bombs [1900]
+- [ ] **Fri, 2028-03-17:** LC: 136. Single Number | CF 1348E Phoenix and Berries [1900]
+- [ ] **Sat, 2028-03-18:** Mock: 2 hards in 60 min | LC: 191. Number of 1 Bits | CF 1364D Ehab's Last Corollary [1900] | C++ systems: profiling & benchmarking | ↺ Review binary search template — 3 variants from memory | Behavioral: 'why this company?'
+- [ ] **Sun, 2028-03-19:** LC: 338. Counting Bits | Quant: Monte Carlo simulation | Mock: 2 mediums 40 min | Weekly review
+- [ ] **Mon, 2028-03-20:** LC: 268. Missing Number | CF 1408D Searchlights [1900]
+- [ ] **Tue, 2028-03-21:** LC: 48. Rotate Image | CF 1437E Make It Increasing [1900]
+- [ ] **Wed, 2028-03-22:** LC: 54. Spiral Matrix | CF 1476E Pattern Matching [1900]
+- [ ] **Thu, 2028-03-23:** LC: 73. Set Matrix Zeroes | CF 1536D Omkar and Medians [1900]
+- [ ] **Fri, 2028-03-24:** LC: 50. Pow(x,n) | CF 1560E Polycarp and String Transform [1900]
+- [ ] **Sat, 2028-03-25:** Mock: 2 hards in 60 min | LC: 43. Multiply Strings | CF 1583E Moment of Bloom [1900] | Quant: Black-Scholes intuition | ↺ Redo your 3 hardest LC problems ever (check your notes) | Mock: 1 hard 45 min
+- [ ] **Sun, 2028-03-26:** LC: 295. Find Median Data Stream | Quant: Greeks intuition | Mock: 1E+1M+1H 75 min | Weekly review
+- [ ] **Mon, 2028-03-27:** LC: 355. Design Twitter | CF 1610F Mashtali [1900]
+- [ ] **Tue, 2028-03-28:** LC: 973. K Closest Points | CF 1656E Equal Tree Sums [1900]
+- [ ] **Wed, 2028-03-29:** LC: 703. Kth Largest Element | CF 1188B Count Pairs [1900]
+- [ ] **Thu, 2028-03-30:** LC: 1046. Last Stone Weight | CF 1209E2 Rotate Columns [1900]
+- [ ] **Fri, 2028-03-31:** LC: 380. Insert Delete GetRandom | CF 1253E Antenna Coverage [1900]
+- [ ] **Sat, 2028-04-01:** Mock: 2 hards in 60 min | LC: 460. LFU Cache | CF 1285D Dr. Evil Underscores [1900] | Quant: market microstructure | ↺ Redo 2 hardest CF problems from past month | Mock with Pramp/Interviewing.io
+- [ ] **Sun, 2028-04-02:** LC: 895. Max Frequency Stack | Probability: Bayes' theorem (3 problems) | Mock: whiteboard (no IDE) | Weekly review
+- [ ] **Mon, 2028-04-03:** LC: 843. Guess the Word | CF 1326E Bombs [1900]
+- [ ] **Tue, 2028-04-04:** LC: 1048. Longest String Chain | CF 1348E Phoenix and Berries [1900]
+- [ ] **Wed, 2028-04-05:** LC: 1293. Shortest Path Obstacles | CF 1364D Ehab's Last Corollary [1900]
+- [ ] **Thu, 2028-04-06:** LC: 394. Decode String | CF 1408D Searchlights [1900]
+- [ ] **Fri, 2028-04-07:** LC: 314. Vertical Order Traversal | CF 1437E Make It Increasing [1900]
+- [ ] **Sat, 2028-04-08:** Mock: 2 hards in 60 min | LC: 1249. Min Remove Valid Parens | CF 1476E Pattern Matching [1900] | Probability: conditional probability | ↺ Review all DP patterns: knapsack, LIS, interval, bitmask | Negotiate: offer strategy
+- [ ] **Sun, 2028-04-09:** LC: 680. Valid Palindrome II | Probability: expected value calculations | Resume: update with latest | Weekly review
+- [ ] **Mon, 2028-04-10:** LC: 227. Basic Calculator II | CF 1536D Omkar and Medians [1900]
+- [ ] **Tue, 2028-04-11:** LC: 937. Reorder Data in Log Files | CF 1560E Polycarp and String Transform [1900]
+- [ ] **Wed, 2028-04-12:** LC: 1268. Search Suggestions | CF 1583E Moment of Bloom [1900]
+- [ ] **Thu, 2028-04-13:** LC: 472. Concatenated Words | CF 1610F Mashtali [1900]
+- [ ] **Fri, 2028-04-14:** LC: 1192. Critical Connections | CF 1656E Equal Tree Sums [1900]
+- [ ] **Sat, 2028-04-15:** Mock: 2 hards in 60 min | LC: 41. First Missing Positive | CF 1188B Count Pairs [1900] | Probability: geometric & negative binomial | ↺ Re-solve 3 company-tagged problems you previously solved | Portfolio: website update
+- [ ] **Sun, 2028-04-16:** LC: 218. The Skyline Problem | Brainteaser: 'Heard on the Street' chapter | Apps: research 5 target companies | Weekly review
+- [ ] **Mon, 2028-04-17:** LC: 315. Count Smaller After Self | CF 1209E2 Rotate Columns [1900]
+- [ ] **Tue, 2028-04-18:** LC: 887. Super Egg Drop | CF 1253E Antenna Coverage [1900]
+- [ ] **Wed, 2028-04-19:** LC: 470. Rand10 Using Rand7 | CF 1285D Dr. Evil Underscores [1900]
+- [ ] **Thu, 2028-04-20:** LC: 239. Sliding Window Maximum | CF 1326E Bombs [1900]
+- [ ] **Fri, 2028-04-21:** LC: 1235. Max Profit Job Scheduling | CF 1348E Phoenix and Berries [1900]
+- [ ] **Sat, 2028-04-22:** Mock: 2 hards in 60 min | LC: 410. Split Array Largest Sum | CF 1364D Ehab's Last Corollary [1900] | Brainteaser: classic quant puzzles (5) | ↺ Review system design: pick random topic, whiteboard 15 min | Apps: tailor resume FAANG
+- [ ] **Sun, 2028-04-23:** LC: 862. Shortest Subarray Sum K | Brainteaser: Fermi estimation | Apps: tailor resume quant | Weekly review
+- [ ] **Mon, 2028-04-24:** LC: 1383. Max Performance Team | CF 1408D Searchlights [1900]
+- [ ] **Tue, 2028-04-25:** LC: 403. Frog Jump | CF 1437E Make It Increasing [1900]
+- [ ] **Wed, 2028-04-26:** LC: 76. Min Window Substring ↺ | CF 1476E Pattern Matching [1900]
+- [ ] **Thu, 2028-04-27:** LC: 124. BT Max Path Sum ↺ | CF 1536D Omkar and Medians [1900]
+- [ ] **Fri, 2028-04-28:** LC: 23. Merge K Lists ↺ | CF 1560E Polycarp and String Transform [1900]
+- [ ] **Sat, 2028-04-29:** Mock: 2 hards in 60 min | LC: 42. Trapping Rain Water ↺ | CF 1583E Moment of Bloom [1900] | Brainteaser: combinatorics puzzles | ↺ Review STAR stories — practice out loud (timer: 2 min each) | Apps: apply to 5 companies
+- [ ] **Sun, 2028-04-30:** LC: 84. Largest Rectangle ↺ | Mental math: 2-digit × 2-digit speed drills | Apps: apply to 5 more | Weekly review
+- [ ] **Mon, 2028-05-01:** LC: 72. Edit Distance ↺ | CF 1610F Mashtali [1900]
+- [ ] **Tue, 2028-05-02:** LC: 4. Median Two Arrays ↺ | CF 1656E Equal Tree Sums [1900]
+- [ ] **Wed, 2028-05-03:** LC: 1335. Min Difficulty Job Schedule | CF 1188B Count Pairs [1900]
+- [ ] **Thu, 2028-05-04:** LC: 1547. Min Cost Cut Stick | CF 1209E2 Rotate Columns [1900]
+- [ ] **Fri, 2028-05-05:** LC: 1696. Jump Game VI | CF 1253E Antenna Coverage [1900]
+- [ ] **Sat, 2028-05-06:** Mock: 2 hards in 60 min | LC: 1937. Max Points with Cost | CF 1285D Dr. Evil Underscores [1900] | Mental math: fraction/decimal conversion | ↺ Redo LC 315 Count Smaller After Self | Apps: LinkedIn outreach (5)
+- [ ] **Sun, 2028-05-07:** LC: 1964. Find Longest Valid Obstacle | Mental math: estimate sqrt, logs | Apps: follow up all | Weekly review
+- [ ] **Mon, 2028-05-08:** LC: 1406. Stone Game III | CF 1326E Bombs [1900]
+- [ ] **Tue, 2028-05-09:** LC: 1140. Stone Game II | CF 1348E Phoenix and Berries [1900]
+- [ ] **Wed, 2028-05-10:** LC: 877. Stone Game | CF 1364D Ehab's Last Corollary [1900]
+- [ ] **Thu, 2028-05-11:** LC: 327. Count of Range Sum | CF 1408D Searchlights [1900]
+- [ ] **Fri, 2028-05-12:** LC: 493. Reverse Pairs | CF 1437E Make It Increasing [1900]
+- [ ] **Sat, 2028-05-13:** Mock: 2 hards in 60 min | LC: 85. Maximal Rectangle | CF 1476E Pattern Matching [1900] | Probability: Markov chains intro | ↺ Redo LC 887 Super Egg Drop | Behavioral: STAR #1 (tech challenge)
+- [ ] **Sun, 2028-05-14:** LC: 1482. Min Days m Bouquets | Probability: random walks & gambler's ruin | Behavioral: STAR #2 (teamwork) | Weekly review
+- [ ] **Mon, 2028-05-15:** LC: 1793. Max Score Good Subarray | CF 1536D Omkar and Medians [1900]
+- [ ] **Tue, 2028-05-16:** LC: 2009. Min Ops Array Continuous | CF 1560E Polycarp and String Transform [1900]
+- [ ] **Wed, 2028-05-17:** LC: 2328. Increasing Paths in Grid | CF 1583E Moment of Bloom [1900]
+- [ ] **Thu, 2028-05-18:** LC: 2035. Partition Array Two Arrays | CF 1610F Mashtali [1900]
+- [ ] **Fri, 2028-05-19:** LC: 1944. Visible People in Queue | CF 1656E Equal Tree Sums [1900]
+- [ ] **Sat, 2028-05-20:** Mock: 2 hards in 60 min | LC: 2071. Max Running Time N Computers | CF 1188B Count Pairs [1900] | Probability: coupon collector | ↺ Review probability: re-derive coupon collector EV | Behavioral: STAR #3 (leadership)
+- [ ] **Sun, 2028-05-21:** LC: 1691. Max Height Stacking Cuboids | Probability: birthday paradox variants | Behavioral: STAR #4 (failure) | Weekly review
+- [ ] **Mon, 2028-05-22:** LC: 1510. Stone Game IV | CF 1209E2 Rotate Columns [1900]
+- [ ] **Tue, 2028-05-23:** LC: 1770. Max Score Multiply Ops | CF 1253E Antenna Coverage [1900]
+- [ ] **Wed, 2028-05-24:** LC: 1799. Maximize Score After N Ops | CF 1285D Dr. Evil Underscores [1900]
+- [ ] **Thu, 2028-05-25:** LC: 774. Min Max Distance Gas Station | CF 1326E Bombs [1900]
+- [ ] **Fri, 2028-05-26:** LC: 1425. Constrained Subseq Sum | CF 1348E Phoenix and Berries [1900]
+- [ ] **Sat, 2028-05-27:** Mock: 2 hards in 60 min | LC: 146. LRU Cache ↺ (under 5min) | CF 1364D Ehab's Last Corollary [1900] | EV: optimal stopping problems | ↺ Speed round: 5 LC easys in 15 min (pattern recognition) | Behavioral: STAR #5 (impact)
+- [ ] **Sun, 2028-05-28:** LC: 355. Design Twitter ↺ | EV: Kelly criterion basics | Behavioral: 5-min project pitch | Weekly review
+- [ ] **Mon, 2028-05-29:** LC: 380. Insert Delete GetRandom ↺ | CF 1408D Searchlights [1900]
+- [ ] **Tue, 2028-05-30:** LC: 460. LFU Cache ↺ | CF 1437E Make It Increasing [1900]
+- [ ] **Wed, 2028-05-31:** LC: 10. Regex Matching ↺ | CF 1476E Pattern Matching [1900]
+- [ ] **Thu, 2028-06-01:** LC: 329. Longest Increasing Path ↺ | CF 1536D Omkar and Medians [1900]
+- [ ] **Fri, 2028-06-02:** LC: 297. Serialize/Deserialize ↺ | CF 1560E Polycarp and String Transform [1900]
+- [ ] **Sat, 2028-06-03:** Mock: 2 hards in 60 min | LC: 312. Burst Balloons ↺ | CF 1583E Moment of Bloom [1900] | EV: game theory — Nash equilibrium | ↺ Speed round: 3 LC mediums in 30 min | Behavioral: 'tell me about yourself'
+- [ ] **Sun, 2028-06-04:** LC: 115. Distinct Subsequences ↺ | EV: auction theory basics | Behavioral: 'why this company?' | Weekly review
+- [ ] **Mon, 2028-06-05:** LC: 218. Skyline Problem ↺ | CF 1610F Mashtali [1900]
+- [ ] **Tue, 2028-06-06:** LC: 315. Count Smaller ↺ | CF 1656E Equal Tree Sums [1900]
+- [ ] **Wed, 2028-06-07:** LC: 887. Super Egg Drop ↺ | CF 1188B Count Pairs [1900]
+- [ ] **Thu, 2028-06-08:** LC: 1. Two Sum | CF 1209E2 Rotate Columns [1900]
+- [ ] **Fri, 2028-06-09:** LC: 217. Contains Duplicate | CF 1253E Antenna Coverage [1900]
+- [ ] **Sat, 2028-06-10:** Mock: 2 hards in 60 min | LC: 242. Valid Anagram | CF 1285D Dr. Evil Underscores [1900] | Brainteaser: knights & knaves | ↺ Redo LC 76 Min Window Substring (under 10 min) | Mock: 2 mediums 40 min
+- [ ] **Sun, 2028-06-11:** LC: 49. Group Anagrams | Brainteaser: weighing puzzles | Mock: 1 hard 45 min | Weekly review
+- [ ] **Mon, 2028-06-12:** LC: 347. Top K Frequent Elements | CF 1326E Bombs [1900]
+- [ ] **Tue, 2028-06-13:** LC: 238. Product of Array Except Self | CF 1348E Phoenix and Berries [1900]
+- [ ] **Wed, 2028-06-14:** LC: 36. Valid Sudoku | CF 1364D Ehab's Last Corollary [1900]
+- [ ] **Thu, 2028-06-15:** LC: 128. Longest Consecutive Sequence | CF 1408D Searchlights [1900]
+- [ ] **Fri, 2028-06-16:** LC: 125. Valid Palindrome | CF 1437E Make It Increasing [1900]
+- [ ] **Sat, 2028-06-17:** Mock: 2 hards in 60 min | LC: 15. 3Sum | CF 1476E Pattern Matching [1900] | Brainteaser: hat puzzles | ↺ Redo LC 42 Trapping Rain Water (under 8 min) | Mock: 1E+1M+1H 75 min
+- [ ] **Sun, 2028-06-18:** LC: 11. Container With Most Water | Brainteaser: infinity puzzles | Mock with Pramp/Interviewing.io | Weekly review
+- [ ] **Mon, 2028-06-19:** LC: 167. Two Sum II | CF 1536D Omkar and Medians [1900]
+- [ ] **Tue, 2028-06-20:** LC: 42. Trapping Rain Water | CF 1560E Polycarp and String Transform [1900]
+- [ ] **Wed, 2028-06-21:** LC: 121. Best Time to Buy and Sell Stock | CF 1583E Moment of Bloom [1900]
+- [ ] **Thu, 2028-06-22:** LC: 3. Longest Substring Without Repeating | CF 1610F Mashtali [1900]
+- [ ] **Fri, 2028-06-23:** LC: 424. Longest Repeating Character Replacement | CF 1656E Equal Tree Sums [1900]
+- [ ] **Sat, 2028-06-24:** Mock: 2 hards in 60 min | LC: 567. Permutation in String | CF 1188B Count Pairs [1900] | C++ systems: cache lines & memory layout | ↺ Redo LC 23 Merge K Sorted Lists (under 12 min) | Mock: whiteboard (no IDE)
+- [ ] **Sun, 2028-06-25:** LC: 76. Minimum Window Substring | C++ systems: move semantics & perfect forwarding | Negotiate: offer strategy | Weekly review
+- [ ] **Mon, 2028-06-26:** LC: 20. Valid Parentheses | CF 1209E2 Rotate Columns [1900]
+- [ ] **Tue, 2028-06-27:** LC: 155. Min Stack | CF 1253E Antenna Coverage [1900]
+- [ ] **Wed, 2028-06-28:** LC: 150. Evaluate Reverse Polish Notation | CF 1285D Dr. Evil Underscores [1900]
+- [ ] **Thu, 2028-06-29:** LC: 22. Generate Parentheses | CF 1326E Bombs [1900]
+- [ ] **Fri, 2028-06-30:** LC: 739. Daily Temperatures | CF 1348E Phoenix and Berries [1900]
