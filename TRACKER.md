@@ -30,29 +30,29 @@
 - [X] **Wed, 2026-04-22:** LC: 347. Top K Frequent Elements | LC: 238. Product of Array Except Self | C++: Maps, sets, pairs, range-for
 - [X] **Thu, 2026-04-23:** LC: 36. Valid Sudoku | LC: 128. Longest Consecutive Sequence | C++: BFS/DFS templates in C++
 - [X] **Fri, 2026-04-24:** LC: 125. Valid Palindrome | LC: 15. 3Sum | C++: Binary search: lower_bound, upper_bound
-- [X] **Sat, 2026-04-25:** LC: 11. Container With Most Water | LC: 167. Two Sum II | LC: 42. Trapping Rain Water | LC: 121. Best Time to Buy and Sell Stock | C++: Prefix sum + sieve in C++ | CF 1294C Product of Three Numbers [1200] | ↺ Redo LC 76 Min Window Substring (under 10 min) | Full-stack: core feature #1
-- [X] **Sun, 2026-04-26:** LC: 3. Longest Substring Without Repeating | Full-stack: core feature #2 | Full-stack: bug fixes + testing | C++: STL: stack, queue, priority_queue
+- [X] **Sat, 2026-04-25:** LC: 11. Container With Most Water | LC: 167. Two Sum II | LC: 42. Trapping Rain Water | LC: 121. Best Time to Buy and Sell Stock | C++: Prefix sum + sieve in C++ | CF 1294C Product of Three Numbers [1200] | ↺ Redo LC 76 Min Window Substring (under 10 min) 
+- [X] **Sun, 2026-04-26:** LC: 3. Longest Substring Without Repeating | C++: STL: stack, queue, priority_queue
 - [X] **Mon, 2026-04-27:** LC: 424. Longest Repeating Character Replacement | LC: 567. Permutation in String | C++: Re-solve 5 CF 800-1000 in C++
 - [X] **Tue, 2026-04-28:** LC: 76. Minimum Window Substring | LC: 20. Valid Parentheses | C++: Recursion + DP in C++
-- [ ] **Wed, 2026-04-29:** LC: 155. Min Stack | LC: 150. Evaluate Reverse Polish Notation | C++: Graphs: adj list, BFS/DFS C++
-- [ ] **Thu, 2026-04-30:** LC: 22. Generate Parentheses | LC: 739. Daily Temperatures | C++: Dijkstra in C++
+- [X] **Wed, 2026-04-29:** LC: 155. Min Stack | LC: 150. Evaluate Reverse Polish Notation | C++: Graphs: adj list, BFS/DFS C++
+- [X] **Thu, 2026-04-30:** LC: 22. Generate Parentheses | LC: 739. Daily Temperatures | C++: Dijkstra in C++
 - [ ] **Fri, 2026-05-01:** LC: 853. Car Fleet | LC: 84. Largest Rectangle in Histogram | C++: Knapsack + LIS in C++
-- [ ] **Sat, 2026-05-02:** LC: 704. Binary Search | LC: 33. Search in Rotated Sorted Array | LC: 153. Find Min Rotated Sorted | LC: 875. Koko Eating Bananas | C++: CF 1000 comfortably in C++ | CF 1294D MEX maximizing [1200] | ↺ Redo LC 42 Trapping Rain Water (under 8 min) | Full-stack: deploy + CI/CD
-- [ ] **Sun, 2026-05-03:** LC: 74. Search 2D Matrix | Full-stack: docs + README | Full-stack: polish UI | C++: CF 1100 in C++
+- [ ] **Sat, 2026-05-02:** LC: 704. Binary Search | LC: 33. Search in Rotated Sorted Array | LC: 153. Find Min Rotated Sorted | LC: 875. Koko Eating Bananas | C++: CF 1000 comfortably in C++ | CF 1294D MEX maximizing [1200] | ↺ Redo LC 42 Trapping Rain Water (under 8 min) 
+- [ ] **Sun, 2026-05-03:** LC: 74. Search 2D Matrix | C++: CF 1100 in C++
 - [ ] **Mon, 2026-05-04:** LC: 981. Time Based Key-Value Store | LC: 4. Median of Two Sorted Arrays | C++: All templates ported to C++
 - [ ] **Tue, 2026-05-05:** LC: 206. Reverse Linked List | LC: 21. Merge Two Sorted Lists | C++: Virtual A+B in C++
 - [ ] **Wed, 2026-05-06:** LC: 141. Linked List Cycle | LC: 143. Reorder List | C++: 1100 in <15min C++
 - [ ] **Thu, 2026-05-07:** LC: 19. Remove Nth From End | LC: 2. Add Two Numbers | C++: multiset, unordered_map, bitset
 - [ ] **Fri, 2026-05-08:** LC: 138. Copy List Random Pointer | LC: 146. LRU Cache | C++: String manipulation, stringstream
-- [ ] **Sat, 2026-05-09:** LC: 23. Merge K Sorted Lists | LC: 25. Reverse Nodes K-Group | LC: 226. Invert Binary Tree | LC: 104. Maximum Depth | C++: Mixed 1000-1200 C++ | CF 1462D Add to Neighbour [1200] | ↺ Redo LC 23 Merge K Sorted Lists (under 12 min) | Full-stack: final testing
-- [ ] **Sun, 2026-05-10:** LC: 100. Same Tree | Full-stack: blog post | Full-stack: update resume | C++: Template polish
+- [ ] **Sat, 2026-05-09:** LC: 23. Merge K Sorted Lists | LC: 25. Reverse Nodes K-Group | LC: 226. Invert Binary Tree | LC: 104. Maximum Depth | C++: Mixed 1000-1200 C++ | CF 1462D Add to Neighbour [1200] | ↺ Redo LC 23 Merge K Sorted Lists (under 12 min) 
+- [ ] **Sun, 2026-05-10:** LC: 100. Same Tree |  C++: Template polish
 - [ ] **Mon, 2026-05-11:** LC: 572. Subtree of Another | LC: 110. Balanced Binary Tree | C++: CF 1300 in C++
 - [ ] **Tue, 2026-05-12:** LC: 102. Level Order Traversal | LC: 98. Validate BST | C++: Speed drills 900-1000 C++
 - [ ] **Wed, 2026-05-13:** LC: 230. Kth Smallest BST | LC: 105. Build Tree Preorder/Inorder | C++: Lambda, custom comparators
 - [ ] **Thu, 2026-05-14:** LC: 199. Right Side View | LC: 1448. Count Good Nodes | C++: Virtual A-C in C++
 - [ ] **Fri, 2026-05-15:** LC: 235. LCA of BST | LC: 208. Implement Trie | C++: Segment tree basics C++
-- [ ] **Sat, 2026-05-16:** LC: 211. Design Add Search Words | LC: 124. Binary Tree Max Path Sum | LC: 297. Serialize/Deserialize BT | LC: 212. Word Search II | C++: BIT (Fenwick tree) C++ | CF 977F Consecutive Subsequence [1200] | ↺ Redo LC 124 BT Max Path Sum (under 10 min) | Full-stack: PROJECT DONE ✅
-- [ ] **Sun, 2026-05-17:** LC: 200. Number of Islands | Full-stack: core feature #1 | Full-stack: core feature #2 | C++: DSU (Union-Find) C++
+- [ ] **Sat, 2026-05-16:** LC: 211. Design Add Search Words | LC: 124. Binary Tree Max Path Sum | LC: 297. Serialize/Deserialize BT | LC: 212. Word Search II | C++: BIT (Fenwick tree) C++ | CF 977F Consecutive Subsequence [1200] | ↺ Redo LC 124 BT Max Path Sum (under 10 min) 
+- [ ] **Sun, 2026-05-17:** LC: 200. Number of Islands | C++: DSU (Union-Find) C++
 
 ## 📅 Phase 4: LC Core + Projects
 - [ ] **Mon, 2026-05-18:** LC: 133. Clone Graph | ML: read Gatys et al. paper | CF 1490D Perm Transformation [1300]
